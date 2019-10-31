@@ -243,7 +243,7 @@ plugins_js  = []
   #   3: OpenStreetMap (Mapbox)
   engine = 1
   api_key = "AIzaSyDb4hQj1HNACmg9SGoOuAIwSw3MJx5gGJ8"
-  zoom = 15
+  zoom = 13
 
 ############################
 ## Marketing
