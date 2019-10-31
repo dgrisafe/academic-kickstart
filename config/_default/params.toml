@@ -48,7 +48,7 @@ description = ""
 
 # Display a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-logo = ""
+logo = "flavicon-dom-logo.png"
 
 ############################
 ## Site Features
@@ -62,7 +62,7 @@ highlight_languages = ["r"]  # Add support for highlighting additional languages
 
 # Enable LaTeX math rendering? true/false
 #   If false, you can enable math on a per page basis as needed.
-math = false
+math = true
 
 # Enable diagram rendering? true/false
 #   If false, you can enable diagrams on a per page basis as needed.
@@ -198,7 +198,7 @@ plugins_js  = []
   engine = 0
 
   # Which page types are commentable?
-  commentable = {page = true, post = true, docs = true, project = true, publication = true, talk = true}
+  commentable = {page = false, post = true, docs = false, project = true, publication = true, talk = true}
 
   # Configuration of Disqus.
   [comments.disqus]
@@ -243,7 +243,7 @@ plugins_js  = []
   #   3: OpenStreetMap (Mapbox)
   engine = 1
   api_key = "AIzaSyDb4hQj1HNACmg9SGoOuAIwSw3MJx5gGJ8"
-  zoom = 12
+  zoom = 13
 
 ############################
 ## Marketing
