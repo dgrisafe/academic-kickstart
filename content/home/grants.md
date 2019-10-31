@@ -25,9 +25,9 @@ subtitle = ""
      name = "Multidisciplinary Research Training in Gerontology [T32]"
      tag = "Grant"
   
-  # [[content.filter_button]]
-  #   name = "Deep Learning"
-  #   tag = "Deep Learning"
+   [[content.filter_button]]
+     name = "Deep Learning"
+     tag = "Deep Learning"
   
   # [[content.filter_button]]
   #   name = "Other"
