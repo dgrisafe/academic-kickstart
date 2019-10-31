@@ -48,7 +48,7 @@ description = ""
 
 # Display a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-logo = "flavicon-dom-logo.png"
+logo = "flavicon-dom-logo-550x550-NoBackground.png"
 
 ############################
 ## Site Features
@@ -121,7 +121,7 @@ contact_links = [
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = "flavicon-dom-logo.png"
+sharing_image = "flavicon-dom-logo-550x550-NoBackground.png"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
 twitter = "DomGrisafe"
