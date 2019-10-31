@@ -23,14 +23,8 @@ subtitle = ""
 [[feature]]
   icon = "laptop-code"
   icon_pack = "fas"
-  name = "SAS"
+  name = "SAS & Stata"
   description = "Advanced"  
-  
-[[feature]]
-  icon = "laptop-code"
-  icon_pack = "fas"
-  name = "Stata"
-  description = "Intermediate"
 
 [[feature]]
   icon = "globe-americas"
