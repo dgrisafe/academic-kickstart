@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Dom Grisafe
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: MD/PhD Candidate in Epidemiology
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Southern California
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I study population-based, multiethnic cohorts of eye disease based in Los Angeles County.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Chronic Disease Epidemiology
+- Visual Impairment
+- Vision-Specific Quality of Life
 
 education:
   courses:
