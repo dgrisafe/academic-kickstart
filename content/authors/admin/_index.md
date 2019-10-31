@@ -67,8 +67,6 @@ email: ""
 # - Visitors
 ---
 
-I am an MD/PhD Candidate training in chronic disease epidemiology at the University of Southern California.
-
 I study population-based, multiethnic cohorts of eye disease based in Los Angeles County. My recent interests include applied statistics, visual impairment, and vision-specific quality of life.
 
 I am pursuing coursework in clinical trials to understand how scientific research is translated into medical solutions for patients.
