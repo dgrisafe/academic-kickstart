@@ -94,7 +94,7 @@ address = {street = "1975 Zonal Ave", city = "Los Angeles", region = "CA", postc
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "34.061329", longitude = "118.205704"}
+coordinates = {latitude = "34.061329", longitude = "-118.205704"}
 
 # Directions for visitors to locate you.
 #directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
