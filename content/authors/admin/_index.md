@@ -42,9 +42,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/DomGrisafe
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/DomGrisafe
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=h3eykHMAAAAJ
@@ -62,9 +62,9 @@ email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
 I am an MD/PhD Candidate training in chronic disease epidemiology at the University of Southern California.
