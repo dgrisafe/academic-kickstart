@@ -18,6 +18,7 @@ subtitle = ""
   icon = "hiking"
   icon_pack = "fas"
   name = "Backpacking"
+  # adding multiple lines: https://discourse.gohugo.io/t/solved-entering-a-two-line-value-for-a-configuraton-key-in-config-toml/9243/14
   description = """Southern California
 
   Mexico

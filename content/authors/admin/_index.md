@@ -15,7 +15,7 @@ role: MD/PhD Candidate in Epidemiology
 # Organizations/Affiliations
 organizations:
 - name: University of Southern California
-  url: ""
+  url: "https://keck.usc.edu/md-phd-program/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I study population-based, multiethnic cohorts of eye disease based in Los Angeles County.
@@ -45,6 +45,9 @@ social:
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/DomGrisafe
+- icon: pubmed
+  icon_pack: ai
+  link: https://www.ncbi.nlm.nih.gov/pubmed/?term=Grisafe+Ii+DJ%5BAuthor%5D
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=h3eykHMAAAAJ
