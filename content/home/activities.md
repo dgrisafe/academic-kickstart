@@ -16,7 +16,7 @@ subtitle = ""
 
 [[feature]]
   icon = "hiking"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Backpacking"
   description = "Southern California"
   
