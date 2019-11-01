@@ -37,9 +37,9 @@ links:
 - name: Conference Abstract
   url: https://apha.confex.com/apha/2019/meetingapp.cgi/Paper/438124
 url_pdf:
-url_code: '#'
+url_code: 'https://github.com/dgrisafe/R-YouHeaL'
 url_dataset:
-url_poster: '#'
+url_poster: ''
 url_project: ''
 url_slides: 'https://bit.ly/youhealapha'
 url_source: ''
@@ -48,7 +48,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
