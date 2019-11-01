@@ -15,20 +15,19 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "hiking"
   icon_pack = "fab"
-  name = "R"
-  description = "Advanced"
+  name = "Backpacking"
+  description = [
+  "Southern California",
+  "Peru",
+  "Mexico"
+  ]
   
 [[feature]]
-  icon = "laptop-code"
+  icon = "running"
   icon_pack = "fas"
-  name = "SAS & Stata"
-  description = "Advanced"  
+  name = "Running"
+  description = "Los Angeles Marathon Charity Relay"  
 
-[[feature]]
-  icon = "globe-americas"
-  icon_pack = "fas"
-  name = "Spanish"
-  description = "Limited working proficiency"
 +++
