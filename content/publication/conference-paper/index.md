@@ -1,13 +1,13 @@
 ---
-title: "An example conference paper"
+title: "Empowering minority youth as trainers of peer health educators for the prevention of childhood obesity: A community-based intervention in South Los Angeles"
 authors:
 - admin
 - Robert Ford
-date: "2013-07-01T00:00:00Z"
+date: "2019-11-06T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2019-10-31T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,13 +16,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+publication: In *American Public Health Association* Conference 2019
+publication_short: In *APHA*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Background: Few programs exist to meaningfully engage youth as community-based peer health educators (PHEs), let alone as trainers of PHEs. We sought to develop a train-the-trainer program that empowers youth PHEs to sustain and multiply a community-based intervention for adolescent obesity. Methods: Researchers applied principles of Popular Education to adapt materials from successful obesity prevention and youth community advocacy training programs to develop a novel, three-phase, train-the-trainer intervention. Phase 1 consists of a six-month, evidence-based program focused on individual and social determinants of obesity that culminates in the participants’ implementation of a grassroots obesity-prevention project. Phase 2 empowers participants as PHEs who recruit and train their peers to complete phase 1. Phase 3 empowers participants as trainers of PHEs who facilitate the completion of phase 2 and phase 3 with their peers. CBPR methods were utilized throughout the study. Minority students in grades 9-11 were recruited from a high school in South LA. Results: At 6 month follow up, participants (n=13) demonstrated an 11% improvement in dietary behaviors (p=0.02), 10% improvement in physical activity behaviors (p=0.28), 4% increase in self-efficacy (p=0.38), and 5% increase in perceived control (p=0.19). No significant differences were observed in waist circumference and tricep skinfold. Currently, 11 participants have progressed into phase 2 and are training a second cohort of 39 peers. Discussion: Preliminary results demonstrate the capacity of minority youth to recruit peers and serve as health educators, though there is limited statistical evidence of health behavior change. Small sample size and short study duration are potential limitations.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: []
 
 tags:
 - Source Themes
@@ -30,7 +30,7 @@ featured: true
 
 links:
 - name: Custom Link
-  url: http://example.org
+  url: https://apha.confex.com/apha/2019/meetingapp.cgi/Paper/438124
 url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 url_code: '#'
 url_dataset: '#'
