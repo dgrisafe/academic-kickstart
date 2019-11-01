@@ -39,7 +39,7 @@ links:
 - name: Website
   url: https://www.youhealprogram.com/
 url_pdf:
-url_code: 'https://github.com/dgrisafe/R-YouHeaL'
+- url_code: 'https://github.com/dgrisafe/R-YouHeaL'
 url_dataset:
 url_poster: ''
 url_project: ''
