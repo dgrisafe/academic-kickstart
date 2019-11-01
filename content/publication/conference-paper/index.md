@@ -41,11 +41,13 @@ links:
 - name: Website
   url: https://www.youhealprogram.com/
 - name: Code
-  url: 'https://github.com/dgrisafe/R-YouHeaL'
-url_dataset: ''
+  url: https://github.com/dgrisafe/R-YouHeaL
+url_pdf: ''
+url_code: ''
+url_dataset:
 url_poster: ''
 url_project: ''
-url_pdf: ''
+url_slides: ''
 url_source: ''
 url_video: ''
 
