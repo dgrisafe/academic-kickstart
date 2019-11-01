@@ -25,5 +25,4 @@ subtitle = ""
   icon_pack = "fas"
   name = "Running"
   description = "Los Angeles Marathon Charity Relay"  
-
 +++
