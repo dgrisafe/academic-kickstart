@@ -37,14 +37,14 @@ links:
 - name: Conference Abstract
   url: https://apha.confex.com/apha/2019/meetingapp.cgi/Paper/438124
 - name: Slides
-	url: https://bit.ly/youhealapha
+  url: https://bit.ly/youhealapha
 - name: Website
   url: https://www.youhealprogram.com/
 - name: Code
   url: https://github.com/dgrisafe/R-YouHeaL
 url_pdf: ''
 url_code: ''
-url_dataset:
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
