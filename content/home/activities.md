@@ -18,7 +18,11 @@ subtitle = ""
   icon = "hiking"
   icon_pack = "fas"
   name = "Backpacking"
-  description = ["Southern California", "Mexico", "Peru"]
+  description = """Southern California
+
+  Mexico
+
+  Peru"""
 
 [[feature]]
 
