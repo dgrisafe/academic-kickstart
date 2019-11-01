@@ -19,7 +19,9 @@ subtitle = ""
   icon_pack = "fas"
   name = "Backpacking"
   description = "Southern California"
-  
+
+[[feature]]
+
 [[feature]]
   icon = "running"
   icon_pack = "fas"
