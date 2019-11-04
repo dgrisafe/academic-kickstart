@@ -18,27 +18,51 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
+  title = "Population-Based Cohort Studies of Eye Disease"
+  company = "Roski Eye Institute - University of Southern California"
+  company_url = "https://eye.keckmedicine.org/population-studies/"
   location = "California"
-  date_start = "2017-01-01"
+  date_start = "2017-08-01"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = ""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
+  title = "Microfluidic Paper-Based Devices"
+  company = "Martinez Research Group – California Polytechnic State University, San Luis Obispo"
+  company_url = "https://web.calpoly.edu/~awmartin/research.html"
   location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  date_start = "2013-09-01"
+  date_end = "2014-06-01"
+  description = ""
+
+[[experience]]
+  title = "Marine Environmental Physiology"
+  company = "Hardy Research Group – California Polytechnic State University, San Luis Obispo"
+  company_url = "https://kristinhardy.wixsite.com/kristinhardy"
+  location = "California"
+  date_start = "2013-09-01"
+  date_end = "2014-06-01"
+  description = ""
+
+[[experience]]
+  title = "Organic Chemistry Synthesis"
+  company = "Meisenheimer Research Group – California Polytechnic State University, San Luis Obispo"
+  company_url = "https://chemistry.calpoly.edu/meisenheimerlab"
+  location = "California"
+  date_start = "2013-09-01"
+  date_end = "2013-12-10"
+  description = ""
+
+[[experience]]
+  title = "Tissue Engineering Summer Intern"
+  company = """
+  Cartilage Tissue Engineering Lab – University of California, San Diego
+  Human Motion Biomechanics Lab – California Polytechnic State University, San Luis Obispo
+  """
+  company_url = "https://sites.google.com/a/eng.ucsd.edu/cte/home/"
+  location = "California"
+  date_start = "2012-06-01"
+  date_end = "2012-08-01"
+  description = ""
 
 +++

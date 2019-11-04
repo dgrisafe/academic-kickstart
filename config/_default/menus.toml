@@ -24,12 +24,12 @@
   weight = 60
 
 [[main]]
-  name = "Research Experience"
+  name = "Research"
   url = "#experience_research"
   weight = 70
 
 [[main]]
-  name = "Work Experience"
+  name = "Work"
   url = "#experience_work_teaching"
   weight = 80
 
