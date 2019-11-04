@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Oregon"
   date_start = "2015-02-01"
   date_end = "2015-06-20"
-  description = ""
+  description = """Prepared surgical specimen for histological slides read by pathologists"""
 
 [[experience]]
   title = "Chemistry Learning Assistant"
