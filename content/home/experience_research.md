@@ -57,6 +57,7 @@ date_format = "Jan 2006"
   title = "Tissue Engineering Summer Intern"
   company = """
   Cartilage Tissue Engineering Lab – University of California, San Diego
+  
   Human Motion Biomechanics Lab – California Polytechnic State University, San Luis Obispo
   """
   company_url = "https://sites.google.com/a/eng.ucsd.edu/cte/home/"
