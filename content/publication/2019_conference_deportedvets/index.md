@@ -21,8 +21,8 @@ publishDate: "2019-10-30T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Test*
-publication_short: In *Test*
+publication: In *American Public Health Association 2019 Annual Meeting and Expo*
+publication_short: In *APHA '19*
 
 abstract: [table-1]
 
