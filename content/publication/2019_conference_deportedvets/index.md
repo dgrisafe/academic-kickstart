@@ -8,7 +8,7 @@ authors:
 - David Lane
 - Ann Cheney
 
-date: "2019-11-05T00:00:00Z"
+date: "2019-11-04T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -35,7 +35,7 @@ Results = Results - Participants were male and entered the US as children. The a
 Conclusions = Conclusions - DV rights need attention. Results show promising routes to address DV-identified concerns.
 
 # Summary. An optional shortened abstract.
-summary: A community-based participatory research intervention in South Los Angeles to empower high school students to develop healthy nutrition and exercise habits. Effect sizes of preliminary results were small, but in the expected directions. Data collection is expected to continue throught 2022.
+summary: Deported Veterans (DV) living in Tijuana, Mexico were interviewed to understand their experiences. All DV entered the US as children and served in the military, half of DV reported difficulties returning to civilian life, one-third of DV did not speak Spanish at the time of their deportation. DV rights need attention.
 
 tags:
 
