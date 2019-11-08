@@ -36,8 +36,10 @@ links:
   url: https://apha.confex.com/apha/2019/meetingapp.cgi/Paper/438124
 - name: Website
   url: https://www.youhealprogram.com/
+- name: Code
+  url: https://github.com/dgrisafe/R-YouHeaL
 url_pdf: ''
-url_code: 'https://github.com/dgrisafe/R-YouHeaL'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
