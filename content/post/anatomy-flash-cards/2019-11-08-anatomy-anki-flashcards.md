@@ -20,7 +20,7 @@ draft: false
 image:
   placement: 2
   caption: 'Skinless Man by Vesalius'
-  focal_point: ''
+  focal_point: 'Top'
   preview_only: false
   
 # Projects (optional).
