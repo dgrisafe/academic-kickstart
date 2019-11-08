@@ -20,7 +20,7 @@ authors:
 - Rohit Varma
 
 lastmod: '2019-11-07T22:16:06-08:00'
-featured: yes
+featured: no
 
 # Publication name and optional abbreviated publication name.
 publication: In *Association for Research in Vision and Ophthalmology 2018 Annual Meeting*
