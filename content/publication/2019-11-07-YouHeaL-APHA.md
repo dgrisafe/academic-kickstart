@@ -1,15 +1,10 @@
 ---
 title: 'Empowering minority youth as trainers of peer health educators for the prevention
   of childhood obesity: A community-based intervention in South Los Angeles'
-author:
-- Kasra Behizad
-- admin
-- Synthia Lay
-- Tia Ramirez
-- Arya Anvar
-- Lourdes Baezconde-Garbanati
+author: Dom Grisafe
 date: '2019-11-07'
 slug: YouHeaL-APHA
+publication_types: ["1"]
 categories:
   - abstract
 tags:
