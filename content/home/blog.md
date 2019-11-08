@@ -11,6 +11,9 @@ subtitle = ""
 [content]
   # Page type to display. E.g. project.
   page_type = "post"
+
+  # Page order. Descending (desc) or ascending (asc) date.
+  order = "desc"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
