@@ -14,10 +14,10 @@ featured: false
 draft: false
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
-# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-image:
+## To use, add an image named `featured.jpg/png` to your page's folder.
+## Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+## Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+image: 
   placement: 2
   caption: 'Skinless Man by Vesalius'
   focal_point: 'Top'
@@ -34,3 +34,6 @@ projects: []
 Test info
 
 Test 2
+
+##To reference file from the static/img/ media library, set library=1 in shortcode. E.g. {{< figure library="1" src="a.png" title="" >}}
+{{< figure library="1" src="anatomy_Vesalius_skinless_man.jpg" title="Skinless Man by Vesalius" >}}
