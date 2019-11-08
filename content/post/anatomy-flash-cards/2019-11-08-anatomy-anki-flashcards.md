@@ -35,5 +35,5 @@ Test info
 
 Test 2
 
-#To reference file from the static/img/ media library, set library=1 in shortcode. E.g. {{< figure library="1" src="a.png" title="" >}}
+[//]: # To reference file from the static/img/ media library, set library=1 in shortcode. E.g. {{< figure library="1" src="a.png" title="" >}}
 {{< figure library="1" src="anatomy_Vesalius_skinless_man.jpg" title="Skinless Man by Vesalius" >}}
