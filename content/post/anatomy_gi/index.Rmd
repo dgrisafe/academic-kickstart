@@ -7,7 +7,7 @@ categories: []
 tags:
   - Anatomy
 subtitle: ''
-summary: ''
+summary: 'Anatomy anki flashcards for the gastrointestinal system'
 authors: []
 lastmod: '2019-11-08T12:35:06-08:00'
 featured: no
