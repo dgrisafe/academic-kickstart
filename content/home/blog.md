@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
-title = "Blog"
+title = "Blog & Resources"
 subtitle = ""
 
 [content]
@@ -29,9 +29,9 @@ subtitle = ""
     name = "Anatomy"
     tag = "Anatomy"
   
-  # [[content.filter_button]]
-  #   name = "Deep Learning"
-  #   tag = "Deep Learning"
+  [[content.filter_button]]
+    name = "Statistics"
+    tag = "Statistics"
   
   # [[content.filter_button]]
   #   name = "Other"
@@ -46,7 +46,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 3
+  view = 1
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false

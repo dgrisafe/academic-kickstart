@@ -7,7 +7,7 @@ categories: []
 tags:
   - Statistics
 subtitle: ''
-summary: ''
+summary: 'Resources and methods used in spatial statistics analyses'
 authors: []
 lastmod: '2019-11-08T13:18:03-08:00'
 featured: no
@@ -18,7 +18,7 @@ image:
 projects: []
 ---
 
-[Spatial statistics](https://gisgeography.com/spatial-analysis/) can relate environmental exposures to diseases illustrated on a map. This page compiles a list of resources available to conduct spatial statistics analysis.
+[Spatial statistics](https://gisgeography.com/spatial-analysis/) can illustrate environmental exposures with diseases onto a map. This page compiles a list of resources available to conduct spatial statistics analysis.
 
 # Geocoding Services: TEXAS A&M
 
