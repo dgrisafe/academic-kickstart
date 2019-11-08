@@ -1,6 +1,5 @@
 ---
-title: Prevalence and Characteristics of Primary Angle Closure Disease in an Adult Chinese American Population: The Chinese American Eye Study
-author: Dom Grisafe
+title: 'Prevalence and Characteristics of Primary Angle Closure Disease in an Adult Chinese American Population: The Chinese American Eye Study'
 date: '2018-04-29'
 slug: pacg-ches
 categories:
@@ -9,7 +8,7 @@ tags: []
 subtitle: ''
 
 lastmod: '2019-11-07T23:07:36-08:00'
-summary: ''
+summary: 'The prevalence of PACG is lower among Chinese Americans than East Asians based on standard definitions of angle closure. However, prevalences of PACS and PAC approximate rates seen in Asia.'
 
 authors:
 - Benjamin Xu
@@ -60,3 +59,4 @@ The prevalence of PACS, PAC, and PACG were 7.9% (95% CI: 7.1-8.8%), 3.1% (95% CI
 **Conclusions**  
 
 The prevalence of PACG is lower among Chinese Americans than East Asians based on standard definitions of angle closure. However, prevalences of PACS and PAC approximate rates seen in Asia.
+

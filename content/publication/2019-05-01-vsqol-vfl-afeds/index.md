@@ -1,6 +1,5 @@
 ---
-title: Vision-Specific Quality of Life and Visual Field Loss in the African American
-  Eye Disease Study
+title: Vision-Specific Quality of Life and Visual Field Loss in the African American Eye Disease Study
 author: Dom Grisafe
 date: '2019-05-01'
 slug: vsqol-vfl-afeds
