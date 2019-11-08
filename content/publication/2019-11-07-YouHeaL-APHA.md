@@ -45,7 +45,7 @@ url_source: ''
 url_video: ''
 ---
 
-**Background* - **
+**Background**
 Few programs exist to meaningfully engage youth as community-based peer health educators (PHEs), let alone as trainers of PHEs. We sought to develop a train-the-trainer program that empowers youth PHEs to sustain and multiply a community-based intervention for adolescent obesity.
 
 **Methods**
@@ -56,3 +56,4 @@ At 6 month follow up, participants (n=13) demonstrated an 11% improvement in die
 
 **Discussion**
 Preliminary results demonstrate the capacity of minority youth to recruit peers and serve as health educators, though there is limited statistical evidence of health behavior change. Small sample size and short study duration are potential limitations.
+
