@@ -1,0 +1,45 @@
+---
+title: Musculoskeletal System Anki Decks
+author: Dom Grisafe
+date: '2019-11-08'
+slug: musculoskeletal-system-anki-decks
+categories: []
+tags:
+  - Anatomy
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2019-11-08T12:35:06-08:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+#Directions
+
+Access these decks by logging into your USC email.
+
+These decks are stored on USC’s google drive. They can only be accessed by people with USC gmail accounts.
+
+#Decks
+
+[5.1 Pectoral, Scapular Regions, And Posterior Arm](https://drive.google.com/open?id=1-whF8QvuSslVN07KGsWLLsOp6U4gBcE2)
+
+[5.2 Axilla And Anterior Arm](https://drive.google.com/open?id=1yG4D7f6ZA5nl1vpide1hSSH45GGfV0pT)
+
+[5.3 Forearm](https://drive.google.com/open?id=1Cnmf7VQBPUnJcWJS0SUoKz3K4Gc7EEdw)
+
+[5.4 Palmar Hand](https://drive.google.com/open?id=12kZfM_ZCyv9PIJj95vmEnQIxtaQgwu19)
+
+[5.5 Upper Limb Joints](https://drive.google.com/open?id=1WxuaIpyRWKVNVI7gWpnzm9V1jWawR1IL)
+
+[5.6 Anterior/Medial Thigh And Anterior Leg](https://drive.google.com/open?id=1M6uVxSdu7Dl2VfDSQcyVG2TEPLeo9085)
+
+[5.7 Gluteal Region, Posterior Thigh, Posterior Leg, And Foot](https://drive.google.com/open?id=178_W2OywMYzHAqqXHxEhdRUXL59uJANW)
+
+[5.8 Lower Limb Joints](https://drive.google.com/open?id=1Sx8IjGnHU6IsdfIUvUk99UJzvY9B945D)
+
+[5 Radiology](https://drive.google.com/open?id=1A5Q3at6ZXDOhJzmvdirto57dPznusv3V)
