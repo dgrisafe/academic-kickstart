@@ -12,7 +12,7 @@ authors: []
 lastmod: '2019-11-08T11:09:49-08:00'
 featured: no
 image:
-  caption: ''
+  caption: 'anatomy_Vesalius_skinless_man.jpg'
   focal_point: ''
   preview_only: no
 projects: []
