@@ -9,7 +9,7 @@ categories:
 tags:
   - YouHeaL
 subtitle: ''
-summary: 'A community-based participatory research intervention in South Los Angeles to empower high school students to develop healthy nutrition and exercise habits. Effect sizes of preliminary results were small, but in the expected directions. Data collection is expected to continue throught 2022.'
+summary: 'A community-based participatory research intervention in South Los Angeles to empower high school students to develop healthy nutrition and exercise habits. Effect sizes of preliminary results were small, but in expected directions. Data collection is expected to continue through 2022.'
 
 authors:
 - Kasra Behizad
