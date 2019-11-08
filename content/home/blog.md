@@ -25,9 +25,9 @@ subtitle = ""
     name = "All"
     tag = "*"
 
-  # [[content.filter_button]]
-  #   name = "Anatomy Anki Flashcards"
-  #   tag = "Anatomy"
+  [[content.filter_button]]
+    name = "Anatomy"
+    tag = "Anatomy"
   
   # [[content.filter_button]]
   #   name = "Deep Learning"
