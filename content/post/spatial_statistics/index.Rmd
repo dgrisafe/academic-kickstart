@@ -1,0 +1,25 @@
+---
+title: Spatial Statistics
+author: Dom Grisafe
+date: '2019-11-08'
+slug: spatial-statistics
+categories: []
+tags:
+  - Statistics
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2019-11-08T13:18:03-08:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+[Spatial statistics](https://gisgeography.com/spatial-analysis/) can relate environmental exposures to diseases illustrated on a map. This page compiles a list of resources available to conduct spatial statistics analysis.
+
+# Geocoding Services: TEXAS A&M
+
+Texas A&M offers a free geocoding service, called [TAMU GeoServices](http://geoservices.tamu.edu/). It requires creating a free account, but then you can geocode 2,500 addresses.
