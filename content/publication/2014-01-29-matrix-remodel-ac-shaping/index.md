@@ -23,7 +23,7 @@ authors:
 - Robert Sah 
 
 lastmod: '2019-11-07T22:16:06-08:00'
-featured: yes
+featured: no
 
 # Publication name and optional abbreviated publication name.
 publication: In *American Society of Mechanical Engineers 2013 Summer Bioengineering Conference*
