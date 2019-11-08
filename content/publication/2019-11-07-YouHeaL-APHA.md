@@ -9,8 +9,16 @@ categories:
 tags:
   - YouHeaL
 subtitle: ''
-summary: ''
-authors: []
+summary: 'A community-based participatory research intervention in South Los Angeles to empower high school students to develop healthy nutrition and exercise habits. Effect sizes of preliminary results were small, but in the expected directions. Data collection is expected to continue throught 2022.'
+
+authors:
+- Kasra Behizad
+- admin
+- Synthia Lay
+- Tia Ramirez
+- Arya Anvar
+- Lourdes Baezconde-Garbanati
+
 lastmod: '2019-11-07T22:16:06-08:00'
 featured: yes
 image:
@@ -18,7 +26,6 @@ image:
   focal_point: ''
   preview_only: no
 projects: []
-abstract: A community-based participatory research intervention in South Los Angeles to empower high school students to develop healthy nutrition and exercise habits. Effect sizes of preliminary results were small, but in the expected directions. Data collection is expected to continue throught 2022.
 links:
 - name: Conference Abstract
   url: https://apha.confex.com/apha/2019/meetingapp.cgi/Paper/438124
