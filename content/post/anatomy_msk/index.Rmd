@@ -24,6 +24,18 @@ Access these decks by logging into your USC email.
 
 These decks are stored on USC’s google drive. They can only be accessed by people with USC gmail accounts.
 
+#How to Study
+
+All decks contain:  
+
+1. Image occlusions of dissection images  
+
+2. Cloze deletions of the alphabetical list of the soft-tissue structures from the end of each section in the dissection guide  
+
+The image occlusions are ready to study.  
+
+The cloze deletions have been suspended because they are more time intensive. Unsuspend these cards if time allows.  
+
 #Decks
 
 [5.1 Pectoral, Scapular Regions, And Posterior Arm](https://drive.google.com/open?id=1-whF8QvuSslVN07KGsWLLsOp6U4gBcE2)

@@ -24,6 +24,16 @@ Access these decks by logging into your USC email.
 
 These decks are stored on USC’s google drive. They can only be accessed by people with USC gmail accounts.
 
+#How to Study
+
+All decks contain:  
+
+1. Image occlusions of dissection images  
+
+The image occlusions are ready to study.  
+
+Cloze deletions were not created for the gastrointestinal system.
+
 #Decks
 
 [2.1 Abdominal Wall and Peritoneal Sac](https://drive.google.com/drive/folders/1VbHmbAPQRi2Je0At_rJeftvm7s9xBzcN?usp=sharing)
