@@ -2,13 +2,18 @@
 title: 'Matrix Remodeling Accompanies In Vitro Articular Cartilage Shaping'
 date: '2013-06-26'
 slug: matrix-remodeling-articular-cartilage-shaping
+
 categories:
   - Conference Abstract
-tags: []
+  
+tags:
+- Tissue Engineering
+- Articular Cartilage
+
 subtitle: ''
 
 lastmod: '2019-11-07T23:07:36-08:00'
-summary: 'Articular cartilage (AC) supports and distributes loads in synovial joints while maintaining a nearly frictionless surface. The objective of this study was to determine the presence, magnitude and depth-dependence of COL and GAG remodeling that accompany the shape change of AC.'
+summary: 'Articular cartilage (AC) supports and distributes loads in synovial joints while maintaining a nearly frictionless surface. The objective of this study was to determine the presence, magnitude and depth-dependence of collagen (COL) and glycosaminoglycans (GAG) remodeling that accompany the shape change of AC.'
 
 authors:
 - Nathan Balcom 

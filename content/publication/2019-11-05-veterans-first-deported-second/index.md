@@ -5,7 +5,11 @@ date: '2019-11-05'
 slug: veterans-first-deported-second
 categories:
   - Conference Abstract
-tags: []
+tags:
+- Deported Veterans
+- PhotoVoice
+- Community-Based Participatory Research
+
 subtitle: ''
 
 lastmod: '2019-11-07T23:07:36-08:00'

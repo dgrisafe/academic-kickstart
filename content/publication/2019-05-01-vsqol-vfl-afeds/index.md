@@ -5,7 +5,13 @@ date: '2019-05-01'
 slug: vsqol-vfl-afeds
 categories:
   - Conference Abstract
-tags: []
+tags:
+- Epidemiology
+- Vision Specific Quality of Life
+- Quality of Life
+- Visual Impairment
+- Visual Field Loss
+
 subtitle: ''
 summary: 'Vision providers should be aware that African American adults with visual field loss greater than 8 dB of mean deviation in the better-seeing eye may have difficulty completing daily tasks; those with greater than 9 dB may have lower social and emotional well-being. Driving difficulties may arise even earlier at 5 dB of VFL.'
 

@@ -6,7 +6,9 @@ slug: YouHeaL-APHA
 categories:
   - Conference Presentation
 tags:
-  - YouHeaL
+- Community-Based Participatory Research
+- YouHeaL
+
 subtitle: ''
 summary: 'A community-based participatory research intervention in South Los Angeles to empower high school students to develop healthy nutrition and exercise habits. Effect sizes of preliminary results were small, but in expected directions. Data collection will continue through 2022.'
 

@@ -2,9 +2,15 @@
 title: 'Utilizing Light-field Imaging Technology in Neurosurgery'
 date: '2018-04-01'
 slug: light-field-imaging-neurosurgery
+
 categories:
   - Commentary
-tags: []
+
+tags:
+- Neurosurgery
+- Light-Field Imaging
+- Education
+
 subtitle: ''
 
 lastmod: '2019-11-07T23:07:36-08:00'
