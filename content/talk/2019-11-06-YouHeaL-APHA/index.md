@@ -1,6 +1,5 @@
 ---
-title: 'Empowering minority youth as trainers of peer health educators for the prevention
-  of childhood obesity: A community-based intervention in South Los Angeles'
+title: 'Empowering Minority Youth as Trainers of Peer Health Educators for the Prevention of Childhood Obesity: A Community-Based Intervention in South Los Angeles'
 author: Dom Grisafe
 date: '2019-11-06'
 slug: YouHeaL-APHA
