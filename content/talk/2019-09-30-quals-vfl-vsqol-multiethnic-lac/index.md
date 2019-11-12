@@ -45,7 +45,7 @@ The [USC Department of Preventive Medicine](https://catalogue.usc.edu/preview_pr
 
 # Committee Members 
 
-The committee included medical researchers and physicians with expertise in fields related to my dissertation. I have developed my research projects under guidance and mentorship of each committee member. The professors on my committee include:  
+The committee included medical researchers and physicians with expertise in fields related to my dissertation. I have developed my research projects under guidance and mentorship of each committee member. The professors include:  
 
 - [Roberta McKean-Cowdin, PhD](https://keck.usc.edu/faculty-search/roberta-mckean-cowdin/)  
 
