@@ -5,7 +5,7 @@ author: Dom Grisafe
 date: '2019-09-30'
 slug: quals-vfl-vsqol-multiethnic-lac
 categories:
-  - dissertation
+  - Dissertation
 tags:
   - Epidemiology
   - Vision Specific Quality of Life

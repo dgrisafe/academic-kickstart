@@ -3,7 +3,7 @@ title: 'Matrix Remodeling Accompanies In Vitro Articular Cartilage Shaping'
 date: '2013-06-26'
 slug: matrix-remodeling-articular-cartilage-shaping
 categories:
-  - conference-abstract
+  - Conference Abstract
 tags: []
 subtitle: ''
 

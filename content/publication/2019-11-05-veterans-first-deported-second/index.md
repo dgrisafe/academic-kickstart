@@ -4,7 +4,7 @@ author: Dom Grisafe
 date: '2019-11-05'
 slug: veterans-first-deported-second
 categories:
-  - conference-abstract
+  - Conference Abstract
 tags: []
 subtitle: ''
 

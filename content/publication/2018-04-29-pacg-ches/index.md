@@ -3,7 +3,7 @@ title: 'Prevalence and Characteristics of Primary Angle Closure Disease in an Ad
 date: '2018-04-29'
 slug: pacg-ches
 categories:
-  - conference-abstract
+  - Conference Abstract
 tags: []
 subtitle: ''
 

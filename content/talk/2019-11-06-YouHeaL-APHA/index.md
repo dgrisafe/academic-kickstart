@@ -4,7 +4,7 @@ author: Dom Grisafe
 date: '2019-11-06'
 slug: YouHeaL-APHA
 categories:
-  - conference-presentation
+  - Conference Presentation
 tags:
   - YouHeaL
 subtitle: ''
