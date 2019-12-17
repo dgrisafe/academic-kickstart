@@ -41,7 +41,7 @@ projects: []
 
 links:
 - name: Conference Abstract
-  url: https://iovs-arvojournals-org.libproxy2.usc.edu/article.aspx?articleid=2744029&resultClick=1
+  url: https://iovs.arvojournals.org/article.aspx?articleid=2744029
 url_pdf: ''
 url_code: ''
 url_dataset: ''
