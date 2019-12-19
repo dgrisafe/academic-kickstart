@@ -48,6 +48,9 @@ social:
 - icon: pubmed
   icon_pack: ai
   link: https://www.ncbi.nlm.nih.gov/pubmed/?term=Grisafe+Ii+DJ%5BAuthor%5D
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-1212-9816
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=h3eykHMAAAAJ
