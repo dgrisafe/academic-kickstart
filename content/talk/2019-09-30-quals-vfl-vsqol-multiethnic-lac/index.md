@@ -1,5 +1,5 @@
 ---
-title: 'Impact of Visual Field Loss on Vision-Specific Quality of Life in Multi-Ethnic, Population-Based Cohorts in Los Angeles County'
+title: '*Qualifying Exam*: Impact of Visual Field Loss on Vision-Specific Quality of Life in Multi-Ethnic, Population-Based Cohorts in Los Angeles County'
 author: Dom Grisafe
 date: '2019-09-30'
 slug: quals-vfl-vsqol-multiethnic-lac
