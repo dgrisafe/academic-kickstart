@@ -18,14 +18,14 @@ summary: 'Vision providers should be aware that African American adults with vis
 
 authors:
 - admin
-- Roberta McKean-Cowdin
+- Rohit Varma
 - Bruce Burkemper
 - Malcolm Barrett
 - Mina Torres
 - Alicia Fairbrother-Crisp
 - Xuejuan Jiang
 - Benjamin Xu
-- Rohit Varma
+- Roberta McKean-Cowdin
 
 lastmod: '2019-11-07T23:31:39-08:00'
 featured: yes
