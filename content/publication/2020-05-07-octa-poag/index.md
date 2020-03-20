@@ -26,7 +26,7 @@ authors:
 - Grace Marie Richter
 
 lastmod: '2020-05-07T23:31:39-08:00'
-featured: yes
+featured: no
 
 # Publication name and optional abbreviated publication name.
 publication: In *Association for Research in Vision and Ophthalmology 2020 Annual Meeting*
