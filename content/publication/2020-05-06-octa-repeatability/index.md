@@ -12,7 +12,7 @@ tags:
 - Measurement Error
 
 subtitle: ''
-summary: 'Optical Coherence Tomography Angiography (OCTA) is a novel method of measuring blood flow through the retina of the eye. FDA approval was obtained for OCTA in 2015. The reliability, reproducibility, and repeatability of OCTA have not been characterized in patients with glaucoma and normal eyes. OCTA parameters were highly repeatable during the same visit. Furthermore, repeatability measurements were similar for both commercially provided and custom quantification software. Intraclass correlation coefficients (ICC) tended to be higher among glaucoma subjects compared to non-glaucoma subjects, which may be explained by the larger between-subject variability in the glaucoma group.'
+summary: 'Optical Coherence Tomography Angiography (OCTA) is a novel method of measuring blood flow through the retina of the eye. FDA approval was obtained for OCTA in 2015. The reliability, reproducibility, and repeatability of OCTA have not been characterized in patients with glaucoma and normal eyes. OCTA parameters were highly repeatable during the same visit.'
 
 authors:
 - Jae Chang Lee
