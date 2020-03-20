@@ -76,3 +76,4 @@ A 5-point loss in VSQOL score has been shown to impact patients clinically. In t
 **Layman Abstract**: 
 
 As people lose their vision, they may be unable to complete normal daily tasks and they may feel unwell. This study suggests that people are affected after only a small amount of vision loss. Study participants who lost part of their vision had the most difficulty with driving and lower mental health. They reported they had difficulty driving both at night and during the day. People reported they were more worried about their eyesight and felt frustrated, had less control, and worried of embarrassing themselves due to their vision. These findings apply to a multiethnic, US population because a large number of Latinos, Chinese Americans, and African Americans participated in this study.
+
