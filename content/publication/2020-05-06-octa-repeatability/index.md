@@ -1,6 +1,6 @@
 ---
 title: Repeatability of Peripapillary Vessel Parameters by Optical Coherence Tomography Angiography
-date: '2020-05-06'
+date: '2020-03-19'
 slug: octa-repeatability
 categories:
   - Conference Abstract
