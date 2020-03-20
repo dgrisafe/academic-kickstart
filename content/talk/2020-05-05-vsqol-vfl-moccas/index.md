@@ -21,11 +21,11 @@ summary: 'As people lose their vision, they may be unable to complete normal dai
 
 authors:
 - admin
-- Rohit Varma
+- Roberta McKean-Cowdin
 - Bruce Burkemper
 - Benjamin Xu
 - Mina Torres
-- Roberta McKean-Cowdin
+- Rohit Varma
 
 lastmod: '2019-11-07T23:07:36-08:00'
 featured: yes
