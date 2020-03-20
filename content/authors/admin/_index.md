@@ -29,7 +29,7 @@ education:
   courses:
   - course: MD
     institution: University of Southern California
-    year: 2022 (Expected)
+    year: 2023 (Expected)
   - course: PhD in Epidemiology
     institution: University of Southern California
     year: 2020 (Expected)
