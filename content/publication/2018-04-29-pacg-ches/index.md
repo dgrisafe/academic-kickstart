@@ -8,7 +8,7 @@ tags:
 - Epidemiology
 - Glaucoma
 - Visual Impairment
-- Chinese Americans
+- Chinese American Eye Study
 
 subtitle: ''
 
