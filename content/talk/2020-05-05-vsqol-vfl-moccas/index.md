@@ -1,7 +1,7 @@
 ---
-title: 'Empowering Minority Youth as Trainers of Peer Health Educators for the Prevention of Childhood Obesity: A Community-Based Intervention in South Los Angeles'
+title: 'Variability of Visual Field Loss on Vision-Specific Quality of Life in the Multiethnic Ophthalmology Cohorts of California Study'
 author: Dom Grisafe
-date: '2019-11-06'
+date: '2020-05-05'
 slug: vsqol-vfl-moccas
 categories:
   - Conference Presentation
