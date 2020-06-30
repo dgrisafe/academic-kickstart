@@ -18,7 +18,7 @@ organizations:
   url: "https://keck.usc.edu/md-phd-program/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an epidemiologist studying chronic disease using population-based cohort studies.
+bio: Epidemiologist studying chronic diseases using population-based cohort studies.
 
 interests:
 - Chronic Disease Epidemiology
