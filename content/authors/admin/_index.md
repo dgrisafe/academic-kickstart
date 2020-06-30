@@ -22,7 +22,8 @@ bio: I am an epidemiologist studying chronic disease using population-based coho
 
 interests:
 - Chronic Disease Epidemiology
-- Environmental Omics
+- Population-Based Cohort Studies
+- Genetic Epidemiology
 - Traffic-Related Air Pollution
 - Visual Impairment
 - Vision-Specific Quality of Life
