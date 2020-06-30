@@ -19,13 +19,23 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "National Institute of Environmental Health Sciences"
+  organization_url = "https://www.niehs.nih.gov/"
+  title = "Post-Doctoral Training Fellowship in Environmental Omics"
+  url = "https://scehsc.usc.edu/wp-content/uploads/2019/08/USC-EnvGen-T32-PostDoc-Announcement.pdf"
+#  certificate_url = ""
+  date_start = "2020-06-01"
+  date_end = "2021-05-31"
+  description = "NIEHS T32 ES013678 – Gauderman, PI – 50% FTE"
+  
+[[item]]
   organization = "National Institute on Aging"
   organization_url = "https://www.nia.nih.gov/research/dbsr"
   title = "Multidisciplinary Research Training in Gerontology"
   url = "https://gero.usc.edu/mrtraining-in-gero/"
 #  certificate_url = ""
   date_start = "2018-08-15"
-  date_end = "2020-08-14"
+  date_end = "2020-05-31"
   description = "NIA T32 AG000037 – Crimmins, PI – 50% FTE"
 
 #[[item]]
