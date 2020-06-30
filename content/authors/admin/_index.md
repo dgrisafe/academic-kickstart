@@ -34,7 +34,7 @@ education:
     year: 2023 (Expected)
   - course: Postdoc Environmental Omics
     institution: University of Southern California
-    year: 2021 (Expected)
+    year: 2021
   - course: PhD Epidemiology
     institution: University of Southern California
     year: 2020
