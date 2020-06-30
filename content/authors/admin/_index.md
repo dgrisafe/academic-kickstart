@@ -75,10 +75,10 @@ email: ""
 # - Visitors
 ---
 
-I study the epidemiology of chronic diseases using population-based cohorts. In June of 2020 I began a postdoctoral fellowship in [Environmental Omics](https://scehsc.usc.edu/wp-content/uploads/2019/08/USC-EnvGen-T32-PostDoc-Announcement.pdf) to learn how environmental exposures interact with the genetics and biochemistry of non-alcoholic fatty liver disease.
+I study the epidemiology of chronic diseases in population-based cohort studies. In June of 2020 I began a postdoctoral fellowship in [Environmental Omics](https://scehsc.usc.edu/wp-content/uploads/2019/08/USC-EnvGen-T32-PostDoc-Announcement.pdf) to learn how environmental exposures interact with the genetics and biochemistry of non-alcoholic fatty liver disease.
 
-During graduate school I completed my dissertation on multiethnic cohorts of eye disease based in Los Angeles County. The primary aims included:
+During graduate school I completed my dissertation on multiethnic cohorts of eye disease based in Los Angeles County. The primary aims were:
 
-1) Investigating how quality of life related to vision is impacted by visual impairment among the most populous racial/ethnic groups in the USA 
+  1) To investigate how quality of life related to vision is impacted by visual impairment among US racial/ethnic groups 
 
-2) Elucidating whether retinal pathophysioloy of primary open angle glaucoma is associated with traffic-related air pollution in African Americans
+  2) To elucidate whether the retinal pathophysioloy of primary open angle glaucoma is associated with traffic-related air pollution in African Americans
