@@ -32,13 +32,13 @@ education:
   - course: MD
     institution: University of Southern California
     year: 2023 (Expected)
-  - course: Postdoctoral Fellow in Environmental Omics
+  - course: Postdoc Environmental Omics
     institution: University of Southern California
     year: 2021 (Expected)
-  - course: PhD in Epidemiology
+  - course: PhD Epidemiology
     institution: University of Southern California
     year: 2020
-  - course: BSc in Biochemistry
+  - course: BSc Biochemistry
     institution: California Polytechnic State University, San Luis Obispo
     year: 2014
 
