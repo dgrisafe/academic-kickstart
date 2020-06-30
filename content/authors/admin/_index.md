@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: MD Candidate | Postdoctoral Fellow in Chronic Disease Epidemiology
+role: MD Candidate | Postdoctoral Chronic Disease Epidemiologist
 
 # Organizations/Affiliations
 organizations:
