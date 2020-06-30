@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: MD/PhD Candidate in Epidemiology
+role: Postdoctoral Fellow in Chronic Disease Epidemiology and MD Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -18,10 +18,12 @@ organizations:
   url: "https://keck.usc.edu/md-phd-program/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I study population-based, multiethnic cohorts of eye disease based in Los Angeles County.
+bio: I am an epidemiologist studying chronic disease using population-based cohort studies.
 
 interests:
 - Chronic Disease Epidemiology
+- Environmental Omics
+- Traffic-Related Air Pollution
 - Visual Impairment
 - Vision-Specific Quality of Life
 
@@ -32,7 +34,7 @@ education:
     year: 2023 (Expected)
   - course: PhD in Epidemiology
     institution: University of Southern California
-    year: 2020 (Expected)
+    year: 2020
   - course: BSc in Biochemistry
     institution: California Polytechnic State University, San Luis Obispo
     year: 2014
@@ -44,7 +46,7 @@ education:
 social:
 # - icon: twitter
 #   icon_pack: fab
-#   link: https://twitter.com/DomGrisafe
+#   link: https://twitter.com/
 - icon: pubmed
   icon_pack: ai
   link: https://www.ncbi.nlm.nih.gov/pubmed/?term=Grisafe+Ii+DJ%5BAuthor%5D
@@ -73,6 +75,6 @@ email: ""
 # - Visitors
 ---
 
-I study population-based, multiethnic cohorts of eye disease based in Los Angeles County. My recent interests include applied statistics, visual impairment, and vision-specific quality of life.
+I study the epidemiology of chronic diseases using population-based cohorts. In June of 2020 I began a postdoctoral fellowship in [Environmental Omics](https://scehsc.usc.edu/wp-content/uploads/2019/08/USC-EnvGen-T32-PostDoc-Announcement.pdf) to learn how environmental exposures interact with the genetics and biochemistry of non-alcoholic fatty liver disease.
 
-I am pursuing coursework in clinical trials to understand how scientific research is translated into medical solutions for patients.
+During graduate school I completed my dissertation on multiethnic cohorts of eye disease based in Los Angeles County. The primary aims included investigating how quality of life related to vision is impacted by visual impairment among the most populous racial/ethnic groups in the USA, as well as elucidating whether retinal pathophysioloy of primary open angle glaucoma is associated with traffic-related air pollution in African Americans.
