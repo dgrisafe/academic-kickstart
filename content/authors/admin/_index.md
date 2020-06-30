@@ -32,6 +32,9 @@ education:
   - course: MD
     institution: University of Southern California
     year: 2023 (Expected)
+  - course: Postdoctoral Fellow in Environmental Omics
+    institution: University of Southern California
+    year: 2021 (Expected)
   - course: PhD in Epidemiology
     institution: University of Southern California
     year: 2020
@@ -78,7 +81,5 @@ email: ""
 I study the epidemiology of chronic diseases in population-based cohort studies. In June of 2020 I began a postdoctoral fellowship in [Environmental Omics](https://scehsc.usc.edu/wp-content/uploads/2019/08/USC-EnvGen-T32-PostDoc-Announcement.pdf) to learn how environmental exposures interact with the genetics and biochemistry of non-alcoholic fatty liver disease.
 
 During graduate school I completed my dissertation on multiethnic cohorts of eye disease based in Los Angeles County. The primary aims were:
-
-  1) To investigate how quality of life related to vision is impacted by visual impairment among US racial/ethnic groups 
-
-  2) To elucidate whether the retinal pathophysioloy of primary open angle glaucoma is associated with traffic-related air pollution in African Americans
+- Investigating how quality of life related to vision is impacted by visual impairment among the most populous US racial/ethnic groups 
+- Elucidating whether the retinal pathophysioloy of primary open angle glaucoma is associated with traffic-related air pollution in African Americans
