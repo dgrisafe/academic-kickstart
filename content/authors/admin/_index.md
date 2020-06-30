@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Fellow in Chronic Disease Epidemiology and MD Candidate
+role: MD Candidate | Postdoctoral Fellow in Chronic Disease Epidemiology
 
 # Organizations/Affiliations
 organizations:
@@ -77,4 +77,8 @@ email: ""
 
 I study the epidemiology of chronic diseases using population-based cohorts. In June of 2020 I began a postdoctoral fellowship in [Environmental Omics](https://scehsc.usc.edu/wp-content/uploads/2019/08/USC-EnvGen-T32-PostDoc-Announcement.pdf) to learn how environmental exposures interact with the genetics and biochemistry of non-alcoholic fatty liver disease.
 
-During graduate school I completed my dissertation on multiethnic cohorts of eye disease based in Los Angeles County. The primary aims included investigating how quality of life related to vision is impacted by visual impairment among the most populous racial/ethnic groups in the USA, as well as elucidating whether retinal pathophysioloy of primary open angle glaucoma is associated with traffic-related air pollution in African Americans.
+During graduate school I completed my dissertation on multiethnic cohorts of eye disease based in Los Angeles County. The primary aims included:
+
+1) Investigating how quality of life related to vision is impacted by visual impairment among the most populous racial/ethnic groups in the USA 
+
+2) Elucidating whether retinal pathophysioloy of primary open angle glaucoma is associated with traffic-related air pollution in African Americans
