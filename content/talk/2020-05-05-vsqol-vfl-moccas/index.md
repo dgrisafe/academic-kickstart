@@ -44,10 +44,8 @@ links:
   url: https://eventpilot.us/web/page.php?nav=false&page=IntHtml&project=ARVO20&id=3361635
 - name: Website
   url: https://sceyes.org/research/population-health
-- name: Code
-  url: https://github.com/dgrisafe/Dissertation/tree/master/2%20VSQOL%20and%20VFL%20in%20MOCCaS
 url_pdf: ''
-url_code: ''
+url_code: 'https://github.com/dgrisafe/Dissertation/tree/master/2%20VSQOL%20and%20VFL%20in%20MOCCaS'
 url_dataset: ''
 url_poster: ''
 url_project: ''
