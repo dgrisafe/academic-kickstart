@@ -21,7 +21,7 @@ authors:
 - Lourdes Baezconde-Garbanati
 
 lastmod: '2019-11-07T22:16:06-08:00'
-featured: no
+featured: yes
 
 # Publication name and optional abbreviated publication name.
 publication: In *American Public Health Association 2019 Annual Meeting and Expo*

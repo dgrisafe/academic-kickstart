@@ -3,8 +3,10 @@ title: 'Qualifying Exam — Impact of Visual Field Loss on Vision-Specific Quali
 author: Dom Grisafe
 date: '2019-09-30'
 slug: quals-vfl-vsqol-multiethnic-lac
+
 categories:
   - Dissertation
+  
 tags:
   - Epidemiology
   - Vision Specific Quality of Life
