@@ -22,7 +22,7 @@ authors:
 - admin
 
 lastmod: '2019-11-12T09:07:14-08:00'
-featured: no
+featured:no
 
 image:
   caption: ''
