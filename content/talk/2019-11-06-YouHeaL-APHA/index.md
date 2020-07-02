@@ -64,4 +64,3 @@ At 6 month follow up, participants (n=13) demonstrated an 11% improvement in die
 **Discussion**  
 
 Preliminary results demonstrate the capacity of minority youth to recruit peers and serve as health educators, though there is limited statistical evidence of health behavior change. Small sample size and short study duration are potential limitations.
-
