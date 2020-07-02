@@ -59,4 +59,3 @@ The committee included medical researchers and physicians with expertise in fiel
 - [Lourdes Baezconde-Garbanati, PhD, MPH](https://keck.usc.edu/faculty-search/lourdes-baez-conde/)  
 
 - [Benjamin Xu, MD, PhD](https://keck.usc.edu/faculty-search/benjamin-yixing-xu/)  
-
