@@ -20,7 +20,7 @@ authors:
 - admin
 
 lastmod: '2019-11-12T09:07:14-08:00'
-featured: no
+featured: 'no'
 
 image:
   caption: ''
@@ -39,8 +39,6 @@ url_video: 'https://vimeo.com/scctsi/review/364939944/73dad1db70'
 ---
 
 # What is a Qualifying Exam?
-
-  TEST
 
 The [USC Department of Preventive Medicine](https://catalogue.usc.edu/preview_program.php?catoid=7&poid=6836&returnto=1755) defines the qualifying exam for the PhD in epidemiology as a proposal to the research committee.  
 
