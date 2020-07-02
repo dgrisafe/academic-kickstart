@@ -36,6 +36,15 @@ date_format = "Jan 2006"
   description = ""
 
 [[experience]]
+  title = "Prosector Lab Technician"
+  company = "Providence Health & Services"
+  company_url = "https://www.providence.org/"
+  location = "Oregon"
+  date_start = "2015-02-01"
+  date_end = "2015-06-20"
+  description = """Prepared surgical specimen for histology slides read by pathologists"""
+  
+[[experience]]
   title = "Microfluidic Paper-Based Devices"
   company = "Martinez Research Group – California Polytechnic State University, San Luis Obispo"
   company_url = "https://web.calpoly.edu/~awmartin/research.html"

@@ -34,11 +34,6 @@
   weight = 80
 
 [[main]]
-  name = "Work"
-  url = "#experience_work_teaching"
-  weight = 90
-
-[[main]]
   name = "Contact"
   url = "#contact"
   weight = 130
