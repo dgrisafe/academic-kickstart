@@ -40,6 +40,8 @@ url_video: 'https://vimeo.com/scctsi/review/364939944/73dad1db70'
 
 # What is a Qualifying Exam?
 
+  TEST
+
 The [USC Department of Preventive Medicine](https://catalogue.usc.edu/preview_program.php?catoid=7&poid=6836&returnto=1755) defines the qualifying exam for the PhD in epidemiology as a proposal to the research committee.  
 
 > "The oral portion will be a seminar-style presentation to the Qualifying Exam Committee, focusing on the dissertation proposal, followed by questions from the Committee on both the proposal and the student's general mastery of the field."  
