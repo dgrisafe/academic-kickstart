@@ -21,7 +21,7 @@ summary: 'For the qualifying exam, I presented my dissertation on how visual imp
 authors:
 - admin
 
-lastmod: '2019-11-12T09:07:14-08:00'
+lastmod: '2019-11-12'
 featured: no
 
 image:
