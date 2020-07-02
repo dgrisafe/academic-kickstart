@@ -18,12 +18,21 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Human Early Life Exposome and Child Liver Injury"
+  company = "Chatzi Laboratory - Preventive Medicine - University of Southern California"
+  company_url = "https://chatzilab.usc.edu/"
+  location = "California"
+  date_start = "2020-06-01"
+  date_end = ""
+  description = ""
+
+[[experience]]
   title = "Population-Based Cohort Studies of Eye Disease"
-  company = "Roski Eye Institute - University of Southern California"
+  company = "Roski Eye Institute - Preventive Medicine - University of Southern California"
   company_url = "https://eye.keckmedicine.org/population-studies/"
   location = "California"
   date_start = "2017-08-01"
-  date_end = ""
+  date_end = "2020-05-31"
   description = ""
 
 [[experience]]
