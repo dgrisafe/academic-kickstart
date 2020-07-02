@@ -45,7 +45,7 @@ tags:
 
 subtitle: 'Dissertation Defense for PhD in Epidemiology'
 
-summary: 'I defended my dissertation by presenting to my committee the three papers that I had drafted over the previous three years. I had proposed my research projects the previous year during my [Qualifying Exam](https://domgrisafe.com/talk/quals-vfl-vsqol-multiethnic-lac/). I identified and proposed a novel question in environmental epidemiology that I presented as the third paper of my dissertation. A detailed abstract is available below.'
+summary: 'While defendeding my dissertation, I presented to my committee the three papers that I had drafted over the previous three years. I had proposed my research projects the previous fall during my [Qualifying Exam](https://domgrisafe.com/talk/quals-vfl-vsqol-multiethnic-lac/). I identified and proposed a novel question in environmental epidemiology that I presented as the third paper of my dissertation. A detailed abstract is available below.'
 
 authors:
 - admin
@@ -71,7 +71,27 @@ url_source: ''
 url_video: ''
 ---
 
-**Abstract**
+# What is a Dissertation Defense?
+
+The [USC Department of Preventive Medicine](https://catalogue.usc.edu/preview_program.php?catoid=7&poid=6836&returnto=1755) defines the dissertation defense for the PhD in epidemiology as a summative oral presentation to the research committee.  
+
+> "This examination is based on a draft or final version of the dissertation and will be administered by the dissertation committee with other faculty invited to attend."
+
+# Committee Members 
+
+The committee included medical researchers and physicians with expertise in fields related to my dissertation. I have developed my research projects under guidance and mentorship of each committee member. The professors include:  
+
+- [Roberta McKean-Cowdin, PhD](https://keck.usc.edu/faculty-search/roberta-mckean-cowdin/)  
+
+- [Wendy Mack, PhD](https://keck.usc.edu/faculty-search/wendy-jean-mack/)  
+
+- [Cecilia Patino-Sutton, MD, PhD](https://keck.usc.edu/faculty-search/cecilia-patino-sutton/)  
+
+- [Lourdes Baezconde-Garbanati, PhD, MPH](https://keck.usc.edu/faculty-search/lourdes-baez-conde/)  
+
+- [Benjamin Xu, MD, PhD](https://keck.usc.edu/faculty-search/benjamin-yixing-xu/)  
+
+# Abstract
 
 Chronic diseases of the eye are becoming more prevalent as the average age of the population continues to climb. Most non‐acute eye diseases present in adults aged 40 years or older. Epidemiologic studies over the last several decades have observed that certain eye pathologies are more common among certain racial/ethnic groups. For example, glaucoma is more prevalent in Latinos and African Americans, age‐related macular degeneration is more common in non‐Hispanic Whites, and diabetic retinopathy is more prevalent in Chinese Americans. How people are impacted by chronic eye diseases might also be related to race/ethnicity. Furthermore, degree of visual function—not just prevalence—may prove to be more informative and precise measures for characterizing disparities in eye disease.
 
