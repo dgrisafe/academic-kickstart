@@ -13,7 +13,7 @@ tags:
   - Quality of Life
   - Visual Impairment
   - Visual Field Loss
-  
+
 subtitle: 'Qualifying Examination Oral Presentation'
 
 summary: 'For the qualifying exam, I presented my dissertation on how visual impairment affects quality of life in multiethnic cohorts from Los Angeles. A committee of medical professors questioned the methodology, interpretation, and implications of the research. I concluded by proposing future projects for the dissertation.'
@@ -40,13 +40,13 @@ url_source: ''
 url_video: 'https://vimeo.com/scctsi/review/364939944/73dad1db70'
 ---
 
- What is a Qualifying Exam?
+**What is a Qualifying Exam?**
 
 The [USC Department of Preventive Medicine](https://catalogue.usc.edu/preview_program.php?catoid=7&poid=6836&returnto=1755) defines the qualifying exam for the PhD in epidemiology as a proposal to the research committee.  
 
 > "The oral portion will be a seminar-style presentation to the Qualifying Exam Committee, focusing on the dissertation proposal, followed by questions from the Committee on both the proposal and the student's general mastery of the field."  
 
- Committee Members 
+**Committee Members**
 
 The committee included medical researchers and physicians with expertise in fields related to my dissertation. I have developed my research projects under guidance and mentorship of each committee member. The professors include:  
 
