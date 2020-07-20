@@ -1,43 +1,33 @@
 ---
-title: 'Qualifying Exam — Impact of Visual Field Loss on Vision-Specific Quality of Life in Multi-Ethnic, Population-Based Cohorts in Los Angeles County'
+title: Qualifying Exam — Impact of Visual Field Loss on Vision-Specific Quality of
+  Life in Multi-Ethnic, Population-Based Cohorts in Los Angeles County
 author: Dom Grisafe
 date: '2019-09-30'
-slug: quals-vfl-vsqol-multiethnic-lac
-
 categories:
   - Dissertation
-  
 tags:
   - Epidemiology
-  - Vision Specific Quality of Life
   - Quality of Life
-  - Visual Impairment
+  - Vision Specific Quality of Life
   - Visual Field Loss
-
-subtitle: 'Qualifying Examination Oral Presentation'
-
-summary: 'For the qualifying exam, I presented my dissertation on how visual impairment affects quality of life in multiethnic cohorts from Los Angeles. A committee of medical professors questioned the methodology, interpretation, and implications of the research. I concluded by proposing future projects for the dissertation.'
-
+  - Visual Impairment
+slug: quals-vfl-vsqol-multiethnic-lac
+subtitle: Qualifying Examination Oral Presentation
+summary: For the qualifying exam, I presented my dissertation on how visual impairment
+  affects quality of life in multiethnic cohorts from Los Angeles. A committee of
+  medical professors questioned the methodology, interpretation, and implications
+  of the research. I concluded by proposing future projects for the dissertation.
 authors:
-- admin
-
-lastmod: '2019-11-12'
+  - admin
+lastmod: '2019-11-07T22:16:06-08:00'
 featured: no
-
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-links:
-url_pdf: 'https://drive.google.com/file/d/17vFLuDHAaEFBLKgVeo1Au2Afp7QJRwcl/view?usp=sharing'
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: 'https://bit.ly/qualsdom'
-url_source: ''
-url_video: 'https://vimeo.com/scctsi/review/364939944/73dad1db70'
+url_pdf: https://drive.google.com/file/d/17vFLuDHAaEFBLKgVeo1Au2Afp7QJRwcl/view?usp=sharing
+url_slides: https://bit.ly/qualsdom
+url_video: https://vimeo.com/scctsi/review/364939944/73dad1db70
 ---
 
 **What is a Qualifying Exam?**
