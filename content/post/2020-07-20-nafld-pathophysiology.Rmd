@@ -1,0 +1,25 @@
+---
+title: NAFLD Pathophysiology
+author: ''
+date: '2020-07-20'
+slug: nafld-pathophysiology
+categories: []
+tags:
+  - NAFLD
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2020-07-20T12:09:41-07:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+# Presentation
+
+Google slides presentation on the [pathophysiology of nonalcoholic fatty liver disease (NAFLD)](https://bit.ly/nafldpathophys).
+
+Image from [Cohen (2011)](http://pubmed.ncbi.nlm.nih.gov/21700865/)
