@@ -7,7 +7,7 @@ categories: []
 tags:
   - NAFLD
 subtitle: ''
-summary: 'Presentation on the pathophysiology of nafld'
+summary: 'Presentation on the pathophysiology of nonalcoholic fatty liver disease'
 authors: []
 lastmod: '2020-07-19T13:18:03-08:00'
 featured: no
