@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
 title = "Blog"
-subtitle = ""
+subtitle = "Research Resources"
 
 [content]
   # Page type to display. E.g. project.

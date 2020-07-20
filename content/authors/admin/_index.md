@@ -58,6 +58,9 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0003-1212-9816
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/dgrisafe/
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=h3eykHMAAAAJ
