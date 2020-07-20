@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
 title = "Research"
-subtitle = "Lab Groups"
+subtitle = "Experience & Lab Teams"
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -21,7 +21,7 @@ date_format = "Jan 2006"
   title = "Human Early Life Exposome and Child Liver Injury"
   company = "Chatzi Laboratory - Preventive Medicine - University of Southern California"
   company_url = "https://chatzilab.usc.edu/"
-  location = "California"
+  location = "Los Angeles, California"
   date_start = "2020-06-01"
   date_end = ""
   description = ""
@@ -30,43 +30,43 @@ date_format = "Jan 2006"
   title = "Population-Based Cohort Studies of Eye Disease"
   company = "Roski Eye Institute - Preventive Medicine - University of Southern California"
   company_url = "https://eye.keckmedicine.org/population-studies/"
-  location = "California"
+  location = "Los Angeles, California"
   date_start = "2017-08-01"
   date_end = ""
   description = ""
 
 [[experience]]
-  title = "Prosector Lab Technician"
-  company = "Providence Health & Services"
+  title = "Prosector Technician"
+  company = "Surgical Pathology - Providence Health & Services"
   company_url = "https://www.providence.org/"
-  location = "Oregon"
+  location = "Portland, Oregon"
   date_start = "2015-02-01"
   date_end = "2015-06-20"
-  description = """Prepared surgical specimen for histology slides read by pathologists"""
+  description = ""
   
 [[experience]]
   title = "Microfluidic Paper-Based Devices"
-  company = "Martinez Research Group – California Polytechnic State University, San Luis Obispo"
+  company = "Martinez Research Group – California Polytechnic State University"
   company_url = "https://web.calpoly.edu/~awmartin/research.html"
-  location = "California"
+  location = "San Luis Obispo, California"
   date_start = "2013-09-01"
   date_end = "2014-06-01"
   description = ""
 
 [[experience]]
   title = "Marine Environmental Physiology"
-  company = "Hardy Research Group – California Polytechnic State University, San Luis Obispo"
+  company = "Hardy Research Group – California Polytechnic State University"
   company_url = "https://kristinhardy.wixsite.com/kristinhardy"
-  location = "California"
+  location = "San Luis Obispo, California"
   date_start = "2013-09-01"
   date_end = "2014-06-01"
   description = ""
 
 [[experience]]
   title = "Organic Chemistry Synthesis"
-  company = "Meisenheimer Research Group – California Polytechnic State University, San Luis Obispo"
+  company = "Meisenheimer Research Group – California Polytechnic State University"
   company_url = "https://chemistry.calpoly.edu/meisenheimerlab"
-  location = "California"
+  location = "San Luis Obispo, California"
   date_start = "2013-09-01"
   date_end = "2013-12-10"
   description = ""
@@ -76,10 +76,10 @@ date_format = "Jan 2006"
   company = """
   Cartilage Tissue Engineering Lab – University of California, San Diego
   
-  Human Motion Biomechanics Lab – California Polytechnic State University, San Luis Obispo
+  Human Motion Biomechanics Lab – California Polytechnic State University
   """
   company_url = "https://sites.google.com/a/eng.ucsd.edu/cte/home/"
-  location = "California"
+  location = "La Jolla, California"
   date_start = "2012-06-01"
   date_end = "2012-08-01"
   description = ""
