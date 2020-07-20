@@ -52,21 +52,21 @@ social:
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/
-- icon: pubmed
-  icon_pack: ai
-  link: https://www.ncbi.nlm.nih.gov/pubmed/?term=Grisafe+Ii+DJ%5BAuthor%5D
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0003-1212-9816
+- icon: github
+  icon_pack: fab
+  link: https://github.com/dgrisafe
+- icon: pubmed
+  icon_pack: ai
+  link: https://www.ncbi.nlm.nih.gov/pubmed/?term=Grisafe+Ii+DJ%5BAuthor%5D
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/dgrisafe/
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=h3eykHMAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/dgrisafe
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
