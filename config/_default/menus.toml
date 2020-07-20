@@ -20,7 +20,7 @@
 
 [[main]]
   name = "Talks"
-  url = "talks"
+  url = "#talks"
   weight = 60
 
 [[main]]
