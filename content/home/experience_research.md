@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
-title = "Research Experience"
-subtitle = ""
+title = "Research"
+subtitle = "Lab Groups"
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -32,7 +32,7 @@ date_format = "Jan 2006"
   company_url = "https://eye.keckmedicine.org/population-studies/"
   location = "California"
   date_start = "2017-08-01"
-  date_end = "2020-05-31"
+  date_end = ""
   description = ""
 
 [[experience]]
