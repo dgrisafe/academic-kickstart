@@ -45,7 +45,7 @@ tags:
 
 subtitle: 'Dissertation Defense for PhD in Epidemiology'
 
-summary: 'While defendeding my dissertation, I presented to my committee the three papers that I had drafted over the previous three years. I had proposed my research projects the previous fall during my [Qualifying Exam](https://domgrisafe.com/publication/quals-vfl-vsqol-multiethnic-lac/). I identified and proposed a novel question in environmental epidemiology that I presented as the third paper of my dissertation. A detailed abstract is available below.'
+summary: 'While defendeding my dissertation, I presented 3 papers to my committee. I proposed these projects during my [Qualifying Exam](https://domgrisafe.com/talk/quals-vfl-vsqol-multiethnic-lac/) the previous fall. I identified and proposed a novel question in environmental epidemiology that I presented as the third paper of my dissertation. A detailed abstract is available below.'
 
 authors:
 - admin
