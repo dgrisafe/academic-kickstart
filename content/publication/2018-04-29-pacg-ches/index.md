@@ -12,7 +12,6 @@ tags:
 
 subtitle: ''
 
-lastmod: '2019-11-07T23:07:36-08:00'
 summary: 'The prevalence of primary angle closure (PAC) glaucoma is lower among Chinese Americans than East Asians based on standard definitions of angle closure. However, prevalences of PAC suspect and PAC approximate rates seen in Asia.'
 
 authors:

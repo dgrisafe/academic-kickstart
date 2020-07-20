@@ -11,7 +11,6 @@ tags:
 
 subtitle: ''
 
-lastmod: '2019-11-07T23:07:36-08:00'
 summary: 'Deported Veterans (DV) living in Tijuana, Mexico were interviewed to understand their experiences. All DV entered the US as children and served in the military, half of DV reported difficulties returning to civilian life, one-third of DV did not speak Spanish at the time of their deportation. DV rights need attention.'
 
 authors:

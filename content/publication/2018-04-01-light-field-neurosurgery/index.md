@@ -13,7 +13,6 @@ tags:
 
 subtitle: ''
 
-lastmod: '2019-11-07T23:07:36-08:00'
 summary: ''
 
 authors:
