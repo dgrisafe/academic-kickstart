@@ -1,7 +1,7 @@
 ---
 title: NAFLD Pathophysiology
 author: Dom Grisafe
-date: '2020-07-20'
+date: '2020-07-19'
 slug: nafld-pathophys
 categories: []
 tags:
@@ -17,6 +17,8 @@ image:
   preview_only: no
 projects: []
 ---
+
+# Presentation
 
 Google slides presentation on the [pathophysiology of nonalcoholic fatty liver disease (NAFLD)](https://bit.ly/nafldpathophys).
 
