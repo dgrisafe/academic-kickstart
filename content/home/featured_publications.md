@@ -3,20 +3,20 @@
 # This section displays publications from `content/publication/` which have
 # `featured = true` in their front matter.
 
-widget = "featured"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Featured Publications"
-subtitle = ""
+title = "Publications"
+subtitle = "Recent Publications"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 0
+  count = 3
 
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
@@ -33,7 +33,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 3
+  view = 2
   
 [design.background]
   # Apply a background color, gradient, or image.
