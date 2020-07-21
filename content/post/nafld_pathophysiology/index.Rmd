@@ -7,6 +7,8 @@ categories: []
 tags:
   - NAFLD
   - Nonalcoholic Fatty Liver Disease
+  - Hepatology
+  - Epidemiology
 subtitle: ''
 summary: 'Presentation on the pathophysiology of nonalcoholic fatty liver disease'
 authors: []
