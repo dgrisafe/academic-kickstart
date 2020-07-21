@@ -5,6 +5,7 @@ slug: octa-poag
 categories:
   - Conference Abstract
 tags:
+- Ophthalmology
 - Optical Coherence Tomography Angiography
 - Primary Open Angle Glaucoma
 - African American Eye Disease Study

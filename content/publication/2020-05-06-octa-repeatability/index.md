@@ -5,6 +5,7 @@ slug: octa-repeatability
 categories:
   - Conference Abstract
 tags:
+- Ophthalmology
 - Optical Coherence Tomography Angiography
 - Reliability
 - Reproducibilty

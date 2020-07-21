@@ -7,6 +7,7 @@ categories:
   - Dissertation
 tags:
   - Epidemiology
+  - Ophthalmology
   - Quality of Life
   - Vision Specific Quality of Life
   - Visual Field Loss
