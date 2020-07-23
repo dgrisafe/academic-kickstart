@@ -42,7 +42,7 @@ image:
 projects: []
 links:
 - name: Conference Abstract
-  url: https://eventpilot.us/web/page.php?nav=false&page=IntHtml&project=ARVO20&id=3361635
+  url: https://iovs.arvojournals.org/article.aspx?articleid=2769535
 - name: Website
   url: https://sceyes.org/research/population-health
 url_pdf: ''

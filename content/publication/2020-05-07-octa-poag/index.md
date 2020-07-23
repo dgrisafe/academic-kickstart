@@ -41,7 +41,7 @@ projects: []
 
 links:
 - name: Conference Abstract
-  url: https://eventpilot.us/web/page.php?nav=false&page=IntHtml&project=ARVO20&id=3359340
+  url: https://iovs.arvojournals.org/article.aspx?articleid=2768699
 url_pdf: ''
 url_code: ''
 url_dataset: ''
