@@ -71,3 +71,6 @@ All IRT and CTT domains of the NEI-VFQ-25 showed significantly lower scores (p <
 
 A 5-point loss in VSQOL score has been shown to impact patients clinically. 5, 8, and 9 dB of VFL in the BSE was associated with a 5-point loss in driving difficulties, task composite, and well-being composite, respectively. Providers should be aware that AA adults with VFL greater than 8 dB may have difficulty completing daily tasks, and those with greater than 9 dB may have lower social and emotional well-being. Driving difficulties may arise even earlier at 5 dB of VFL.
 
+**Awards**
+
+[Outstanding Poster Presentation](https://drive.google.com/file/d/1dY2b-Ua3eDwUnfRggsv5a2OSSY65SKfL/view) during [2019 Annual Pre-ARVO Event](https://www.facebook.com/uscroskieye/posts/thank-you-to-our-incredible-university-of-southern-california-vision-science-res/1268504036632305/) at USC Roski Eye Institute
