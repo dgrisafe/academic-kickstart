@@ -13,6 +13,7 @@ tags:
 - Visual Impairment
 - Visual Field Loss
 - African American Eye Disease Study
+- Association for Research in Vision and Ophthalmology
 
 subtitle: ''
 summary: 'Vision providers should be aware that African American adults with visual field loss greater than 8 dB of mean deviation in the better-seeing eye may have difficulty completing daily tasks; those with greater than 9 dB may have lower social and emotional well-being. Driving difficulties may arise even earlier at 5 dB of VFL.'

@@ -9,6 +9,7 @@ tags:
 - Optical Coherence Tomography Angiography
 - Primary Open Angle Glaucoma
 - African American Eye Disease Study
+- Association for Research in Vision and Ophthalmology
 
 subtitle: ''
 summary: 'The goal of this study is to evaluate whether Optical Coherence Tomography Angiography (OCTA) has the potential to improve how moderate-to-severe primary open-angle glaucoma (POAG) is clinically monitored.'

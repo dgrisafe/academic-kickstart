@@ -21,11 +21,15 @@ authors:
 - admin
 - Bruce Burkemper
 - Brenda Ryuna Chang
-- Ali Fard
-- Zhongdi Chu
 - Xiao Zhou
+- Zhongdi Chu
+- Ali Fard
+- Mary Durbin
+- Brandon J Wong
+- Benjamin Xu
 - Ruikang K. Wang
 - Grace Marie Richter
+
 
 lastmod: '2020-09-24T23:31:39-08:00'
 featured: yes
