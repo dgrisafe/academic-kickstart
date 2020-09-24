@@ -85,6 +85,6 @@ email: ""
 
 I study chronic disease epidemiology, a field that explores how exposures relate to health outcomes in specific populations. 
 
-In June of 2020 I began a postdoctoral fellowship in [Environmental Omics](https://scehsc.usc.edu/wp-content/uploads/2019/08/USC-EnvGen-T32-PostDoc-Announcement.pdf). I am learning multi-omics methods to integrate genetics with the biochemistry of non-alcoholic fatty liver disease in children.
+In June of 2020 I began a postdoctoral fellowship in [Environmental Omics](https://drive.google.com/file/d/10VWMRnFBfFJxueXct3npUaVkrcL0fiWs/view?usp=sharing). I am learning multi-omics methods to integrate genetics with the biochemistry of non-alcoholic fatty liver disease in children.
 
 My dissertation was titled [Chronic Eye Disease Epidemiology in the Multiethnic Ophthalmology Cohorts of California Study](http://digitallibrary.usc.edu/cdm/ref/collection/p15799coll89/id/318788). The primary aims included (1) investigating how visual impairment impacts quality of life related to vision among the most populous US racial/ethnic groups, and (2) elucidating whether traffic-related air pollution is associated with the retinal pathophysiology of primary open angle glaucoma in African Americans.
