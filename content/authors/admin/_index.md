@@ -60,7 +60,7 @@ social:
   link: https://github.com/dgrisafe
 - icon: pubmed
   icon_pack: ai
-  link: https://www.ncbi.nlm.nih.gov/pubmed/?term=Grisafe+Ii+DJ%5BAuthor%5D
+  link: https://pubmed.ncbi.nlm.nih.gov/?term=%28Dominic+J+Grisafe+Ii%5BAuthor%5D%29+OR+%28Dominic+Grisafe%5BAuthor%5D%29&sort=date
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/dgrisafe/
