@@ -47,10 +47,10 @@ projects: []
 links:
 - name: PubMed
   url: https://pubmed.ncbi.nlm.nih.gov/32917629/
-- name: Conference Abstract, ARVO 2020
+- name: Conference Abstract, ARVO '20
   url: https://iovs.arvojournals.org/article.aspx?articleid=2769358
 url_pdf: ''
-url_code: ''
+url_code: 'https://github.com/dgrisafe/octa-repeatability'
 url_dataset: ''
 url_poster: ''
 url_project: ''
