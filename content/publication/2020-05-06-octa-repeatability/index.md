@@ -59,19 +59,18 @@ url_source: ''
 url_video: ''
 ---
 
-**Purpose**
+**Objective** 
 
-To compare intrasession repeatability of the peripapillary vessel parameters of optical coherence tomography angiography (OCTA) in glaucoma and non-glaucoma subjects.
+To compare intrasession repeatability versus intersession reproducibility of the peripapillary vessel parameters using optical microangiography-based optical coherence tomography angiography (OCTA) in non-glaucomatous and glaucomatous eyes.
 
 **Methods**
 
-An observational, cross-sectional study collected three 6x6mm optic nerve head (ONH) OCTA scans (Cirrus HD-OCT 5000) of glaucoma and non-glaucoma subjects. En face images of the radial peripapillary capillary (RPC) layer were created using a commercially provided automatic segmentation software. A custom image quality grading protocol excluded eyes with media opacities, segmentation errors, or motion artifacts. Subjects with non-glaucomatous optic neuropathy, diabetic retinopathy, and other retinal pathologies were excluded. The commercially provided quantification software calculated perfusion density (PD) and flux index (FI); custom quantification software calculated vessel area density (VAD) and flux. Repeatability was measured by intraclass correlation coefficient (ICC), within-subject standard deviation (Sw), coefficient of repeatability (CRw), and coefficient of variation (CVw).
+In an observational, longitudinal study, peripapillary OCTA scans were collected to evaluate intrasession repeatability and intersession reproducibility using within-eye coefficient of variation (CVW) and intraclass correlation coefficient (ICC). Images were quantified using a custom research-oriented quantification software calculating vessel area density (VAD) and flux and a commercially developed, clinic-oriented quantification software (Cirrus 11.0, Carl Zeiss Meditec) calculating perfusion density (PD) and flux index (FI). Effect of signal strength on the reliability of OCTA parameters was also evaluated.
 
 **Results**
 
-One eye was chosen at random from each subject. Of 193 subjects, 159 subjects had at least two good quality intrasession images. Of these, 88 met the inclusion and exclusion criteria (29 non-glaucoma, 59 glaucoma). The Sw [%], and ICC of the commercially available segmentation algorithms in non-glaucoma eyes for PD were 0.006, and 0.939, respectively, and for FI were 0.006, and 0.954. The Sw [%], and ICC in glaucoma eyes for PD were 0.007, and 0.965, and for FI were 0.007, and 0.969. The Sw [%], and ICC of the custom segmentation software in non-glaucoma eyes for VAD were 0.019, and 0.858, respectively, and for flux were 0.008, and 0.864. The Sw [%], and ICC in glaucoma eyes for VAD were 0.012, and 0.972, and for flux were 0.004, and 0.976.
+Among 120 non-glaucomatous eyes, intrasession CVW were 4.2% for VAD, 5.3% for flux, 1.5% for PD and 2.0% for FI. The intersession CVW were 6.5% for VAD, 8.0% for flux, 2.0% for PD and 3.2% for FI. The intrasession ICC ranged from 0.928 to 0.945, and intersession ICC ranged from 0.811 to 0.866. From 118 glaucomatous eyes, intrasession CVW was 9.0% for VAD, 10.3% for flux, 1.7% for PD and 2.3% for FI. The intersession CVW was 12.1% for VAD, 14.2% for flux, 2.3% for PD and 3.5% for FI. The intrasession ICC ranged from 0.904 to 0.972, and intersession ICC ranged from 0.855 to 0.955. Signal strength was significantly positively associated with OCTA vessel parameters (p<0.0001) for both groups.
 
-**Conclusions**
+**Conclusion**
 
-OCTA parameters were highly repeatable during the same visit. Furthermore, repeatability measurements were similar for both commercially provided and custom quantification software. ICCs tended to be higher among glaucoma subjects compared to non-glaucoma subjects, which may be explained by the larger between-subject variability in the glaucoma group.
-Layman Abstract (optional): Provide a 50-200 word description of your work that non-scientists can understand. Describe the big picture and the implications of your findings, not the study itself and the associated details.
+Peripapillary OCTA vessel parameters had greater intrasession repeatability compared to intersession reproducibility in both non-glaucomatous and glaucomatous eyes. The built-in commercially developed quantification software demonstrated greater agreement than the custom research-oriented quantification software.
