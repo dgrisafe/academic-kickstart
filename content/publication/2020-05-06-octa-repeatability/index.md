@@ -1,9 +1,9 @@
 ---
 title: Repeatability of Peripapillary Vessel Parameters by Optical Coherence Tomography Angiography
-date: '2020-03-19'
+date: '2020-09-11'
 slug: octa-repeatability
 categories:
-  - Conference Abstract
+  - Published Paper
 tags:
 - Ophthalmology
 - Optical Coherence Tomography Angiography
@@ -11,6 +11,7 @@ tags:
 - Reproducibilty
 - Repeatability
 - Measurement Error
+- Association for Research in Vision and Ophthalmology
 
 subtitle: ''
 summary: 'Optical Coherence Tomography Angiography (OCTA) is a novel method of measuring blood flow through the retina of the eye. FDA approval was obtained for OCTA in 2015. The reliability, reproducibility, and repeatability of OCTA have not been characterized in patients with glaucoma and normal eyes. OCTA parameters were highly repeatable during the same visit.'
@@ -26,12 +27,12 @@ authors:
 - Ruikang K. Wang
 - Grace Marie Richter
 
-lastmod: '2020-05-06T23:31:39-08:00'
+lastmod: '2020-09-24T23:31:39-08:00'
 featured: yes
 
 # Publication name and optional abbreviated publication name.
-publication: In *Association for Research in Vision and Ophthalmology 2020 Annual Meeting*
-publication_short: In *ARVO '20*
+publication: In *British Journal of Ophthalmology*
+publication_short: In *Br J Ophthalmol*
 
 image:
   caption: ''
@@ -40,7 +41,9 @@ image:
 projects: []
 
 links:
-- name: Conference Abstract
+- name: PubMed
+  url: https://pubmed.ncbi.nlm.nih.gov/32917629/
+- name: Conference Abstract, ARVO 2020
   url: https://iovs.arvojournals.org/article.aspx?articleid=2769358
 url_pdf: ''
 url_code: ''
