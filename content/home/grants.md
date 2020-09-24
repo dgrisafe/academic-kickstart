@@ -31,7 +31,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "National Institute on Aging"
   organization_url = "https://www.nia.nih.gov/research/dbsr"
-  title = "Multidisciplinary Research Training in Gerontology"
+  title = "Pre-Doctoral Multidisciplinary Research Training in Gerontology"
   url = "https://gero.usc.edu/mrtraining-in-gero/"
 #  certificate_url = ""
   date_start = "2018-08-15"
