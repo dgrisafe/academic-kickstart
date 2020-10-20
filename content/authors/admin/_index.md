@@ -61,9 +61,9 @@ social:
 - icon: pubmed
   icon_pack: ai
   link: https://pubmed.ncbi.nlm.nih.gov/?term=%28Dominic+J+Grisafe+Ii%5BAuthor%5D%29+OR+%28Dominic+Grisafe%5BAuthor%5D%29&sort=date
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/dgrisafe/
+# - icon: linkedin
+#   icon_pack: fab
+#   link: https://www.linkedin.com/in/dgrisafe/
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=h3eykHMAAAAJ
