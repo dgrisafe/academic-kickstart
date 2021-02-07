@@ -1,5 +1,10 @@
 # [Academic Kickstart](https://sourcethemes.com/academic/)
 
+Website built with:
+- [Hugo version 58.3](https://github.com/gohugoio/hugo/releases/tag/v0.58.3)
+- Academic version = "4.5.0" listed in *themes/academic/data/academic.toml*
+
+
 **Academic** makes it easy to create a beautiful website for free using Markdown, Jupyter, or RStudio. Customize anything on your site with widgets, themes, and language packs. [Check out the latest demo](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the showcase](https://sourcethemes.com/academic/#expo).
 
 **Academic Kickstart** provides a minimal template to kickstart your new website.
