@@ -85,6 +85,6 @@ email: ""
 
 I study chronic disease epidemiology, a field that explores how exposures relate to health outcomes in specific populations. 
 
-In June of 2020 I began a postdoctoral fellowship in [Environmental Omics](https://drive.google.com/file/d/10VWMRnFBfFJxueXct3npUaVkrcL0fiWs/view?usp=sharing). I am learning multi-omics methods to integrate the genetics and biochemistry of non-alcoholic fatty liver disease in children.
+I'm currently a [postdoctoral fellow](https://drive.google.com/file/d/10VWMRnFBfFJxueXct3npUaVkrcL0fiWs/view?usp=sharing) investigating the multi-omics of non-alcoholic fatty liver disease in children.
 
-My dissertation is titled [Chronic Eye Disease Epidemiology in the Multiethnic Ophthalmology Cohorts of California Study](http://digitallibrary.usc.edu/cdm/ref/collection/p15799coll89/id/318788).
+My dissertation was titled [Chronic Eye Disease Epidemiology in the Multiethnic Ophthalmology Cohorts of California Study](http://digitallibrary.usc.edu/cdm/ref/collection/p15799coll89/id/318788).
