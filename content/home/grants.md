@@ -26,7 +26,7 @@ date_format = "Jan 2006"
 #  certificate_url = ""
   date_start = "2020-06-01"
   date_end = "2021-05-31"
-  description = "NIEHS T32 ES013678 – Gauderman, PI – 50% FTE"
+  description = "NIEHS T32 ES013678 – Gauderman, WJ - McConnell, RS – 50% FTE"
   
 [[item]]
   organization = "National Institute on Aging"
@@ -36,7 +36,7 @@ date_format = "Jan 2006"
 #  certificate_url = ""
   date_start = "2018-08-15"
   date_end = "2020-05-31"
-  description = "NIA T32 AG000037 – Crimmins, PI – 50% FTE"
+  description = "NIA T32 AG000037 – Crimmins, EM – 50% FTE"
 
 #[[item]]
 #  organization = "edX"
