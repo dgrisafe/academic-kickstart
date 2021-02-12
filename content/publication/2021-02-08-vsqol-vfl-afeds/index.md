@@ -1,7 +1,7 @@
 ---
 title: Vision-Specific Quality of Life and Visual Field Loss in the African American Eye Disease Study
 author: Dom Grisafe
-date: '2019-05-01'
+date: '2021-02-08'
 slug: vsqol-vfl-afeds
 categories:
   - Conference Abstract
@@ -43,6 +43,8 @@ image:
 projects: []
 
 links:
+- name: PubMed
+  url: https://pubmed.ncbi.nlm.nih.gov/33571475/
 - name: Conference Abstract
   url: https://iovs.arvojournals.org/article.aspx?articleid=2744029
 url_pdf: ''
