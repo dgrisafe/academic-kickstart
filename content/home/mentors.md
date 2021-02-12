@@ -19,14 +19,13 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
- organization = ""
+ organization = "test"
 #  organization_url = ""
- title = ""
+ title = "test"
 #  url = ""
 #  certificate_url = ""
- date_start = ""
+ date_start = "Z"
 #  date_end = ""
-  description = """Roberta McKean-Cowdin; PhD \t Benjamin Xu, MD, PhD \t Ceclia Patino-Sutton, MD, PhD
-  Derek Gragson, PhD"""
+  description = """Roberta McKean-Cowdin; PhD Benjamin Xu, MD, PhD Ceclia Patino-Sutton, MD, PhD Derek Gragson, PhD"""
 
 +++
