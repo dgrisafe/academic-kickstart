@@ -9,14 +9,14 @@
   weight = 10
 
 [[main]]
-  name = "Grants"
-  url = "#grants"
-  weight = 40
-
-[[main]]
   name = "Publications"
   url = "#featured_publications"
-  weight = 50
+  weight = 40
+
+# [[main]]
+#   name = "Languages"
+#   url = "#languages"
+#   weight = 50
 
 [[main]]
   name = "Talks"
@@ -24,19 +24,34 @@
   weight = 60
 
 [[main]]
+  name = "Grants"
+  url = "#grants"
+  weight = 70
+
+[[main]]
   name = "Blog"
   url = "#blog"
-  weight = 70
+  weight = 80
+
+# [[main]]
+#   name = "Mentors"
+#   url = "#mentors"
+#   weight = 90
 
 [[main]]
   name = "Teams"
   url = "#experience_research"
-  weight = 80
+  weight = 100
+
+# [[main]]
+#   name = "Volunteer"
+#   url = "#experience_volunteer"
+#   weight = 110
 
 [[main]]
   name = "Topics"
   url = "#tags"
-  weight = 90
+  weight = 120
 
 # [[main]]
 #   name = "Contact"
