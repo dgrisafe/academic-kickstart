@@ -43,12 +43,18 @@ image:
 projects: []
 
 links:
-- name: Conference Abstract
+- name: AJO
+  url: https://doi.org/10.1016/j.ajo.2021.02.008
+- name: PubMed
+  url: https://pubmed.ncbi.nlm.nih.gov/33571475/
+- name: Conference Abstract, ARVO '19
   url: https://iovs.arvojournals.org/article.aspx?articleid=2744029
+- name: Poster
+  url: https://drive.google.com/file/d/1TO1tQNhVn0j3r73hGQAge1CIm1klbuN9/view?usp=sharing
 url_pdf: ''
 url_code: ''
 url_dataset: ''
-url_poster: 'https://drive.google.com/file/d/1TO1tQNhVn0j3r73hGQAge1CIm1klbuN9/view?usp=sharing'
+url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
