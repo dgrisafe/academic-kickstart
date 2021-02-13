@@ -4,7 +4,7 @@ author: Dom Grisafe
 date: '2021-02-08'
 slug: vsqol-vfl-afeds
 categories:
-  - Conference Abstract
+  - Published Paper
 tags:
 - Epidemiology
 - Ophthalmology
