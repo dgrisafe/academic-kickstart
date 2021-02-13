@@ -1,5 +1,5 @@
 ---
-title: Impact of Visual Field Loss on Vision-Specific Quality of Life in African Americans
+title: Impact of Visual Field Loss on Vision-Specific Quality of Life in African Americans: The African American Eye Disease Study
 author: Dom Grisafe
 date: '2021-02-08'
 slug: vsqol-vfl-afeds
