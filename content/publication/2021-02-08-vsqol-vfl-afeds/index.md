@@ -22,10 +22,10 @@ authors:
 - admin
 - Rohit Varma
 - Bruce Burkemper
-- Malcolm Barrett
+- Benjamin Xu
 - Mina Torres
 - Alicia Fairbrother-Crisp
-- Xuejuan Jiang
+- Cecilia Patino
 - Benjamin Xu
 - Roberta McKean-Cowdin
 
@@ -33,8 +33,8 @@ lastmod: '2019-11-07T23:31:39-08:00'
 featured: yes
 
 # Publication name and optional abbreviated publication name.
-publication: In *Association for Research in Vision and Ophthalmology 2019 Annual Meeting*
-publication_short: In *ARVO '19*
+publication: In *American Journal of Ophthalmology*
+publication_short: In *AJO '21*
 
 image:
   caption: ''
