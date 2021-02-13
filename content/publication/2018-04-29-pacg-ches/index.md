@@ -38,7 +38,7 @@ image:
   preview_only: no
 projects: []
 links:
-- name: Conference Abstract
+- name: Conference Abstract, ARVO '18
   url: https://iovs-arvojournals-org.libproxy2.usc.edu/article.aspx?articleid=2690802
 url_pdf: ''
 url_code: ''

@@ -34,7 +34,7 @@ image:
   preview_only: no
 projects: []
 links:
-- name: Conference Abstract
+- name: Conference Abstract, APHA '19
   url: https://apha.confex.com/apha/2019/meetingapp.cgi/Paper/429829
 url_pdf: ''
 url_code: ''

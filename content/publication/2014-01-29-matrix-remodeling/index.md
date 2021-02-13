@@ -31,7 +31,7 @@ image:
   preview_only: no
 projects: []
 links:
-- name: Conference Abstract
+- name: Conference Abstract, ASME '13
   url: https://asmedigitalcollection.asme.org/SBC/proceedings/SBC2013/55614/V01BT62A001/287591
 url_pdf: 'https://drive.google.com/file/d/17hZYex4sUMlIdTPyzZjG7AWMC-Taz29l/view?usp=sharing'
 url_code: ''

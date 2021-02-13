@@ -41,7 +41,7 @@ image:
 projects: []
 
 links:
-- name: Conference Abstract
+- name: Conference Abstract, ARVO '20
   url: https://iovs.arvojournals.org/article.aspx?articleid=2768699
 url_pdf: ''
 url_code: ''
