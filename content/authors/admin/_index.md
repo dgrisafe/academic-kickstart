@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Dom Grisafe
+name: Dom Grisafe, PhD
 
 # Username (this should match the folder name)
 authors:
