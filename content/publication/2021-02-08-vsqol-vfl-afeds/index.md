@@ -57,20 +57,23 @@ url_video: ''
 
 **Purpose**  
 
-To examine the association between visual field loss (VFL) and self-reported vision-specific quality of life (VSQOL) in adult African Americans (AA)
+To elucidate how visual field loss (VFL) impacts self-reported vision-specific quality of life (VSQOL) in African Americans, who experience a disproportionate burden of visual impairment.
 
+**Design**  
+
+ Cross-sectional, population-based cohort
+ 
 **Methods**  
 
-The African American Eye Disease Study (AFEDS) is a population-based cross-sectional study of adult residents from 32 US census tracts in Inglewood, California. 6,347 AAs aged 40 years and older completed comprehensive interviews and ophthalmic exams from 2014-18. VSQOL was assessed using the NEI-VFQ-25. VFL was measured in both eyes using the Humphrey SITA Standard C24-2 test. VFL was measured as decibels (dB) of mean deviation (MD) and classified as no VFL (MD ≥ -2 dB), mild VFL (-2 to -6 dB), and moderate/severe VFL (< -6 dB). Classical test theory (CTT) and item response theory (IRT) were used to score the NEI-VFQ-25. Multivariable linear regression and analysis of covariance were used to determine the relationship between VSQOL and VFL.
+Eligible participants (n = 7,957) were recruited who self-identified as African American, were 40 years or older and resided in Inglewood, California. 6,347 participants (80.0%) completed clinical eye exams. Total mean deviation (MD) of VFL was measured bilaterally as decibels (dB) using the Humphrey SITA Standard 24-2 test. VSQOL was measured using the National Eye Institute Visual Function Questionnaire (NEI-VFQ-25) and scored using item response theory (IRT). 
 
 **Results**  
 
-AFEDS participants were more likely to have moderate/severe VFL if they were female, unemployed, reported annual income ≤ $20,000, had less than high school education, or had visual acuity loss (≤ 20/40). Older age, greater number of comorbidities, and higher levels of self-reported depression were significantly associated with worse VFL categories.
-All IRT and CTT domains of the NEI-VFQ-25 showed significantly lower scores (p < 0.001) correlated with greater VFL in both the better (BSE) and worse (WSE) seeing eyes; associations were uniformly larger in the BSE compared to the WSE. IRT scoring suggested items loaded on two unidimensional domains characterized as task and well-being composites. Each 1 dB MD of VFL was associated with 0.60 lower task and 0.54 lower well-being composite scores. CTT scoring revealed driving difficulties (0.99), general vision (0.53), mental health (0.46), near vision (0.45), peripheral vision (0.44), and role function (0.43) domains of VSQOL had the strongest correlations with VFL.
+Participants with reliable data (n = 5,121) had a mean age of 60.7 years (SD 11.0); those with worse VFL were older, had more comorbidities, lower income, less education, worse visual acuity, and were more likely to be unemployed and depressed. Using IRT analysis, a change in VF of 6.2 (95% CI: 5.3, 7.7) dB and 9.2 (95% CI: 7.5, 11.9) dB was necessary to observe a meaningful (5-point) difference in vision-related task and emotional well-being scores, respectively. VFL had the greatest impact on self-reported driving ability (6.0 dB [95% CI: 5.2, 7.1]), followed by satisfaction with general vision, near vision, vision-related mental health, and peripheral vision. 
 
 **Conclusions**  
 
-A 5-point loss in VSQOL score has been shown to impact patients clinically. 5, 8, and 9 dB of VFL in the BSE was associated with a 5-point loss in driving difficulties, task composite, and well-being composite, respectively. Providers should be aware that AA adults with VFL greater than 8 dB may have difficulty completing daily tasks, and those with greater than 9 dB may have lower social and emotional well-being. Driving difficulties may arise even earlier at 5 dB of VFL.
+The strongest impact of VFL reported by African Americans was on their ability to complete visual tasks, especially for driving. An effect of VFL on emotional well-being also was observed, but the magnitude of association was about 50% lower for well-being compared to that of task. 
 
 **Awards**
 
