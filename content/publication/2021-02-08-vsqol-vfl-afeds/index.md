@@ -1,7 +1,7 @@
 ---
-title: Test
+title: Impact of Visual Field Loss on Vision-Specific Quality of Life in African Americans
 author: Dom Grisafe
-date: '2019-05-01'
+date: '2021-02-08'
 slug: vsqol-vfl-afeds
 categories:
   - Conference Abstract
