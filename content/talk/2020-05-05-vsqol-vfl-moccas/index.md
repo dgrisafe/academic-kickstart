@@ -41,12 +41,14 @@ image:
   preview_only: no
 projects: []
 links:
-- name: Conference Abstract
+- name: Conference Abstract, ARVO '20
   url: https://iovs.arvojournals.org/article.aspx?articleid=2769535
 - name: Website
   url: https://sceyes.org/research/population-health
+- name: Code
+  url: https://github.com/dgrisafe/Dissertation/tree/master/2%20VSQOL%20and%20VFL%20in%20MOCCaS
 url_pdf: ''
-url_code: 'https://github.com/dgrisafe/Dissertation/tree/master/2%20VSQOL%20and%20VFL%20in%20MOCCaS'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''

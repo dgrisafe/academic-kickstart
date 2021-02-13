@@ -33,7 +33,7 @@ image:
   preview_only: no
 projects: []
 links:
-- name: Conference Abstract
+- name: Conference Abstract, APHA '19
   url: https://apha.confex.com/apha/2019/meetingapp.cgi/Paper/438124
 - name: Website
   url: https://www.youhealprogram.com/

@@ -61,8 +61,10 @@ projects: []
 links:
 - name: Dissertation — USC Library
   url: http://digitallibrary.usc.edu/cdm/ref/collection/p15799coll89/id/318788
+- name: Code
+  url: https://github.com/dgrisafe/Dissertation
 url_pdf: ''
-url_code: 'https://github.com/dgrisafe/Dissertation'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
