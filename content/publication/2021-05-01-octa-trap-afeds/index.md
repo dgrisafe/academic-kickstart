@@ -1,7 +1,7 @@
 ---
 title: 'The Association of Traffic-Related Air Pollution and Perfusion of the Peripapillary Retina in African Americans'
 author: Dom Grisafe
-date: '2021-05-01'
+date: '2021-03-01'
 slug: octa-trap-afeds
 categories:
   - Conference Abstract
