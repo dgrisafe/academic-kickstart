@@ -28,7 +28,7 @@ tags:
 - Vessel Area Density
 
 subtitle: ''
-summary: 'test'
+summary: ''
 
 authors:
 - admin
