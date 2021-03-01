@@ -42,7 +42,7 @@ authors:
 - Grace Richter
 - Rohit Varma
 
-lastmod: '`r Sys.time()`'
+lastmod: '2021-03-01 10:26:15 PST'
 featured: yes
 
 # Publication name and optional abbreviated publication name.
