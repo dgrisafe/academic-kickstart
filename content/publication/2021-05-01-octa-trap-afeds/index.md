@@ -42,7 +42,7 @@ authors:
 - Grace Richter
 - Rohit Varma
 
-lastmod: '2021-03-01 10:26:15 PST'
+lastmod: '2021-03-01T10:26:15-08:00'
 featured: yes
 
 # Publication name and optional abbreviated publication name.
