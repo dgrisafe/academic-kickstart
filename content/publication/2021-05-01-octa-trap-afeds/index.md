@@ -56,8 +56,6 @@ image:
 projects: []
 
 links:
-# - name: Conference Abstract, ARVO '21
-#   url: 
 url_pdf: ''
 url_code: ''
 url_dataset: ''
