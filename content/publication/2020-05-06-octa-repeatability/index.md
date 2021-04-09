@@ -47,6 +47,8 @@ projects: []
 links:
 - name: PubMed
   url: https://pubmed.ncbi.nlm.nih.gov/32917629/
+- name: BMJ
+  url: https://bjo.bmj.com/content/early/2020/09/11/bjophthalmol-2020-317181
 - name: Conference Abstract, ARVO '20
   url: https://iovs.arvojournals.org/article.aspx?articleid=2769358
 - name: Code
