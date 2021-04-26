@@ -35,14 +35,14 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
-[[experience]]
-  title = "Prosector Technician"
-  company = "Surgical Pathology - Providence Health & Services"
-  company_url = "https://www.providence.org/"
-  location = "Portland, Oregon"
-  date_start = "2015-02-01"
-  date_end = "2015-06-20"
-  description = ""
+#[[experience]]
+#  title = "Prosector Technician"
+#  company = "Surgical Pathology - Providence Health & Services"
+#  company_url = "https://www.providence.org/"
+#  location = "Portland, Oregon"
+#  date_start = "2015-02-01"
+#  date_end = "2015-06-20"
+#  description = ""
   
 [[experience]]
   title = "Microfluidic Paper-Based Devices"
