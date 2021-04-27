@@ -17,13 +17,14 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
   title = "Human Early Life Exposome and Child Liver Injury"
   company = "Chatzi Laboratory - Preventive Medicine - University of Southern California"
   company_url = "https://chatzilab.usc.edu/"
   location = "Los Angeles, California"
   date_start = "2020-06-01"
-  date_end = ""
+  date_end = "2021-05-31"
   description = ""
 
 [[experience]]
@@ -34,7 +35,7 @@ date_format = "Jan 2006"
   date_start = "2017-08-01"
   date_end = ""
   description = ""
-
+  
 #[[experience]]
 #  title = "Prosector Technician"
 #  company = "Surgical Pathology - Providence Health & Services"
