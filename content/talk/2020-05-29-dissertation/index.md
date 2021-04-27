@@ -10,7 +10,7 @@ tags:
 - Ophthalmology
 - Multiethnic Ophthalmology Cohorts of California Study
 - African American Eye Disease Study
-- Chinese Americans Eye Study
+- Chinese American Eye Study
 - Los Angeles Latino Eye Study
 - Visual Function
 - Visual Acuity
