@@ -7,6 +7,7 @@ categories: []
 tags:
   - Anatomy
   - Gastroenterology
+  - Medical Education
 subtitle: ''
 summary: 'Anatomy anki flashcards for the gastrointestinal system'
 authors: []

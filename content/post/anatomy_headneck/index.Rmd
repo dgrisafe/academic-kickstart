@@ -7,6 +7,7 @@ categories: []
 tags:
   - Anatomy
   - Otolaryngology
+  - Medical Education
   - Neurology
 subtitle: ''
 summary: 'Anatomy anki flashcards for the head and neck'

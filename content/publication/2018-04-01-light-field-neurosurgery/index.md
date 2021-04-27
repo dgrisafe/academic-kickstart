@@ -9,7 +9,7 @@ categories:
 tags:
 - Neurosurgery
 - Light-Field Imaging
-- Education
+- Medical Education
 
 subtitle: ''
 

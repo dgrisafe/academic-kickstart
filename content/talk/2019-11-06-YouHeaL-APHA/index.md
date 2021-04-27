@@ -6,7 +6,9 @@ slug: YouHeaL-APHA
 categories:
   - Conference Presentation
 tags:
+- American Public Health Association
 - Community-Based Participatory Research
+- Epidemiology
 - YouHeaL
 
 subtitle: ''
