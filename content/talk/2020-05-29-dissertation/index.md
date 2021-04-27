@@ -8,20 +8,14 @@ categories:
 tags:
 - Epidemiology
 - Ophthalmology
-- Multiethnic Health Disparities
+- Multiethnic Ophthalmology Cohorts of California Study
 - African American Eye Disease Study
 - Chinese Americans Eye Study
 - Los Angeles Latino Eye Study
 - Visual Function
-- Visual Impairment
 - Visual Acuity
-- Visual Field
 - Visual Field Loss
-- Visual Angle
-- Quality of Life
-- Health-Related Quality of Life
-- Vision-Specific Quality of Life
-- National Eye Institute Visual Functioning Questionnaire-25
+- Visual Impairment
 - Environment
 - Environmental Epidemiology
 - Environmental exposure
@@ -35,7 +29,10 @@ tags:
 - Optical Coherence Tomography Angiography
 - Vessel Area Density
 - Psychometrics
-- Classical Test Theory
+- Vision-Specific Quality of Life
+- National Eye Institute Visual Functioning Questionnaire-25
+- Health-Related Quality of Life
+- 12-Item Short Form Survey
 - Item Response Theory
 - Graded Response Model
 - Multivariable Linear Regression

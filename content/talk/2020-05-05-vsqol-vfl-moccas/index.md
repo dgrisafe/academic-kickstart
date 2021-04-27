@@ -8,16 +8,26 @@ categories:
 tags:
 - Epidemiology
 - Ophthalmology
-- Vision Specific Quality of Life
-- Quality of Life
-- Visual Impairment
-- Visual Field Loss
 - Multiethnic Ophthalmology Cohorts of California Study
 - African American Eye Disease Study
 - Chinese American Eye Study
 - Los Angeles Latino Eye Study
+- Visual Function
+- Visual Acuity
+- Visual Field Loss
+- Visual Impairment
+- Psychometrics
+- Vision-Specific Quality of Life
+- National Eye Institute Visual Functioning Questionnaire-25
+- Classical Test Theory
+- Item Response Theory
+- Graded Response Model
+- Multivariable Linear Regression
+- Locally Weighted Scatterplot Smoothing
+- Multiple Imputation with Chained Equations
+- Association for Research in Vision and Ophthalmology
 
-subtitle: ''
+subtitle: 'Variability of Visual Field Loss and Vision Quality of Life'
 summary: 'As people lose their vision, they may be unable to complete normal daily tasks and they may feel unwell. This study suggests that people are affected after only a small amount of vision loss. Study participants who lost part of their vision had the most difficulty with driving and lower mental health. They reported they had difficulty driving both at night and during the day. People reported they were more worried about their eyesight and felt frustrated, had less control, and worried of embarrassing themselves due to their vision. These findings apply to a multiethnic, US population because a large number of Latinos, Chinese Americans, and African Americans participated in this study.'
 
 authors:

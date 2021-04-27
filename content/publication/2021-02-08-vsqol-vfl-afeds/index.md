@@ -8,14 +8,25 @@ categories:
 tags:
 - Epidemiology
 - Ophthalmology
-- Vision Specific Quality of Life
-- Quality of Life
-- Visual Impairment
-- Visual Field Loss
 - African American Eye Disease Study
+- Visual Function
+- Visual Acuity
+- Visual Field Loss
+- Visual Impairment
+- Psychometrics
+- Vision-Specific Quality of Life
+- National Eye Institute Visual Functioning Questionnaire-25
+- Health-Related Quality of Life
+- 12-Item Short Form Survey
+- Classical Test Theory
+- Item Response Theory
+- Graded Response Model
+- Multivariable Linear Regression
+- Locally Weighted Scatterplot Smoothing
+- Multiple Imputation with Chained Equations
 - Association for Research in Vision and Ophthalmology
 
-subtitle: ''
+subtitle: 'Visual Field Loss and Quality of Life in African Americans'
 summary: 'African Americans endure a disproportionate burden of visual impairment. Vision quality of life was characterized by daily tasks and emotional well-being. Field loss had the greatest impact on completing daily visual tasks. A meaningful change in visual task was associated with 6 dB lower visual field. Preventing visual field loss is important for preserving vision quality of life.'
 
 authors:

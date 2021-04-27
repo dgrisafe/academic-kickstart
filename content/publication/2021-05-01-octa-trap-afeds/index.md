@@ -15,6 +15,7 @@ tags:
 - Generalized Additive Models
 - Glaucoma
 - Multivariable Linear Regression
+- Nitrogen Dioxide
 - Open Angle Glaucoma
 - Ophthalmology
 - Optic Nerve Head
@@ -23,7 +24,6 @@ tags:
 - Primary Open Angle Glaucoma
 - Radial Peripapillary Capillaries
 - Retinal Blood Flow
-- Statistics
 - Traffic-Related Air Pollution
 - Vessel Area Density
 
