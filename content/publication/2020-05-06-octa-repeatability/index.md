@@ -5,13 +5,15 @@ slug: octa-repeatability
 categories:
   - Published Paper
 tags:
+- Association for Research in Vision and Ophthalmology
+- Measurement Error
 - Ophthalmology
 - Optical Coherence Tomography Angiography
+- Primary Open Angle Glaucoma
 - Reliability
-- Reproducibilty
 - Repeatability
-- Measurement Error
-- Association for Research in Vision and Ophthalmology
+- Reproducibilty
+- Vessel Area Density
 
 subtitle: ''
 summary: 'Optical Coherence Tomography Angiography (OCTA) is a novel method of measuring blood flow through the retina of the eye. FDA approval was obtained for OCTA in 2015. The reliability, reproducibility, and repeatability of OCTA have not been characterized in patients with glaucoma and normal eyes. OCTA parameters were highly repeatable during the same visit.'
