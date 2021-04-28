@@ -31,14 +31,10 @@ subtitle = "Research Resources"
   [[content.filter_button]]
     name = "Anatomy"
     tag = "Anatomy"
-    
-  [[content.filter_button]]
-    name = "NAFLD"
-    tag = "NAFLD"
   
-  [[content.filter_button]]
-    name = "Statistics"
-    tag = "Statistics"
+  # [[content.filter_button]]
+  #   name = "Rookie Researcher"
+  #   tag = "Rookie Researcher"
   
   # [[content.filter_button]]
   #   name = "Other"
