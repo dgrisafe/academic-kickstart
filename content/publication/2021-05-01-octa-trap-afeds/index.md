@@ -60,6 +60,8 @@ links:
   url: https://arvo2021.arvo.org/meetings/virtual/jKT4AfJgkpRmBzWwn
 - name: Poster
   url: https://drive.google.com/file/d/1Iherjm6WbOQOFqrEeiNVPF-byMFCO8qW/view?usp=sharing
+- name: Travel Grant
+  url: https://drive.google.com/file/d/1uGaI1gbXfuzly4MI_k5PP1X7bCGjNj3J/view?usp=sharing
 url_pdf: ''
 url_code: ''
 url_dataset: ''
