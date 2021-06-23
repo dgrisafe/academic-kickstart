@@ -6,6 +6,7 @@ categories:
   - Published Paper
 tags:
 - Association for Research in Vision and Ophthalmology
+- Clinical Translational Sciences
 - Measurement Error
 - Ophthalmology
 - Optical Coherence Tomography Angiography

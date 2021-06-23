@@ -7,9 +7,10 @@ categories:
   - Commentary
 
 tags:
-- Neurosurgery
+- Clinical Translational Sciences
 - Light-Field Imaging
 - Medical Education
+- Neurosurgery
 
 subtitle: ''
 

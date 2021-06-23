@@ -7,6 +7,7 @@ categories:
 tags:
 - African American Eye Disease Study
 - Association for Research in Vision and Ophthalmology
+- Clinical Translational Sciences
 - Ophthalmology
 - Optical Coherence Tomography Angiography
 - Primary Open Angle Glaucoma

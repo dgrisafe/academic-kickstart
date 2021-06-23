@@ -23,6 +23,7 @@ bio: Epidemiologist studying chronic disease in population-based cohort studies
 interests:
 - Chronic Disease Epidemiology
 - Social Determinants of Health
+- Clinical Translational Sciences
 - Visual Impairment
 - Genetic Epidemiology
 - Quality of Life
