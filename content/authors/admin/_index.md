@@ -83,7 +83,7 @@ email: ""
 # - Visitors
 ---
 
-I am a medical student and a chronic disease epidemiologist interested in understanding how risk exposures affect disease outcomes at the population level.
+I am a medical student and a chronic disease epidemiologist interested in how risk exposures affect disease outcomes at the population level.
 
 As a [postdoctoral fellow](https://drive.google.com/file/d/10VWMRnFBfFJxueXct3npUaVkrcL0fiWs/view?usp=sharing) I developed skills in bioinformatics while investigating the multi-omics of non-alcoholic fatty liver disease in cohorts of European children.
 
