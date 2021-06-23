@@ -5,12 +5,13 @@ slug: pacg-ches
 categories:
   - Conference Abstract
 tags:
-- Epidemiology
-- Ophthalmology
-- Glaucoma
-- Visual Impairment
-- Chinese American Eye Study
 - Association for Research in Vision and Ophthalmology
+- Chinese American Eye Study
+- Epidemiology
+- Glaucoma
+- Ophthalmology
+- Social Determinants of Health
+- Visual Impairment
 
 subtitle: ''
 

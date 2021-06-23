@@ -6,24 +6,26 @@ date: '2019-09-30'
 categories:
   - Dissertation
 tags:
-- Epidemiology
-- Ophthalmology
 - African American Eye Disease Study
-- Visual Function
-- Visual Acuity
-- Visual Field Loss
-- Visual Impairment
-- Psychometrics
-- Vision-Specific Quality of Life
-- National Eye Institute Visual Functioning Questionnaire-25
-- Health-Related Quality of Life
-- 12-Item Short Form Survey
 - Classical Test Theory
-- Item Response Theory
+- Epidemiology
 - Graded Response Model
-- Multivariable Linear Regression
+- Health-Related Quality of Life
+- Item Response Theory
 - Locally Weighted Scatterplot Smoothing
 - Multiple Imputation with Chained Equations
+- Multivariable Linear Regression
+- National Eye Institute Visual Functioning Questionnaire-25
+- Ophthalmology
+- Psychometrics
+- Social Determinants of Health
+- Vision-Specific Quality of Life
+- Visual Acuity
+- Visual Field Loss
+- Visual Function
+- Visual Impairment
+- 12-Item Short Form Survey
+
 slug: quals-vfl-vsqol-multiethnic-lac
 subtitle: Qualifying Examination Oral Presentation
 summary: For the qualifying exam, I presented my dissertation on how visual impairment

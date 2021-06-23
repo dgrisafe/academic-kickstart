@@ -24,6 +24,7 @@ tags:
 - Primary Open Angle Glaucoma
 - Radial Peripapillary Capillaries
 - Retinal Blood Flow
+- Social Determinants of Health
 - Traffic-Related Air Pollution
 - Vessel Area Density
 

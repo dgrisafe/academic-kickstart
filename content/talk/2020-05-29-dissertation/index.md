@@ -39,6 +39,7 @@ tags:
 - Locally Weighted Scatterplot Smoothing
 - Multiple Imputation with Chained Equations
 - Generalized Additive Models
+- Social Determinants of Health
 
 subtitle: 'Dissertation Defense for PhD in Epidemiology'
 
