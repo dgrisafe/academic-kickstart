@@ -41,7 +41,7 @@ education:
     institution: University of Southern California
     year: 2020
   - course: BSc Biochemistry
-    institution: California Polytechnic State University, San Luis Obispo
+    institution: California Polytechnic State University, SLO
     year: 2014
 
 # Social/Academic Networking
