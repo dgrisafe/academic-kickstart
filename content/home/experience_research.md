@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   company_url = "https://eye.keckmedicine.org/population-studies/"
   location = "Los Angeles, California"
   date_start = "2017-08-01"
-  date_end = ""
+  date_end = "2021-05-31"
   description = ""
   
 #[[experience]]
