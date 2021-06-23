@@ -22,11 +22,11 @@ bio: Epidemiologist studying chronic disease in population-based cohort studies
 
 interests:
 - Chronic Disease Epidemiology
-- Health Disparities
+- Social Determinants of Health
 - Visual Impairment
+- Genetic Epidemiology
 - Quality of Life
 - Traffic-Related Air Pollution
-- Genetic Epidemiology
 
 education:
   courses:
