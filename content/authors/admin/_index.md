@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: MD Candidate | Chronic Disease Epidemiologist
+role: MD Candidate | Epidemiologist
 
 # Organizations/Affiliations
 organizations:
