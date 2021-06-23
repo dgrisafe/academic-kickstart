@@ -83,8 +83,8 @@ email: ""
 # - Visitors
 ---
 
-I study chronic disease epidemiology, a field that explores how exposures relate to health outcomes in specific populations. 
+I am a medical student and a chronic disease epidemiologist interested in exploring how exposures relate to health outcomes within specific populations.
 
-I'm currently a [postdoctoral fellow](https://drive.google.com/file/d/10VWMRnFBfFJxueXct3npUaVkrcL0fiWs/view?usp=sharing) investigating the multi-omics of non-alcoholic fatty liver disease in children.
+As a [postdoctoral fellow](https://drive.google.com/file/d/10VWMRnFBfFJxueXct3npUaVkrcL0fiWs/view?usp=sharing) I developed skills in bioinformatics while investigating the multi-omics of non-alcoholic fatty liver disease in cohorts of European children.
 
-My dissertation was titled [Chronic Eye Disease Epidemiology in the Multiethnic Ophthalmology Cohorts of California Study](http://digitallibrary.usc.edu/cdm/ref/collection/p15799coll89/id/318788).
+During my [doctoral dissertation](http://digitallibrary.usc.edu/cdm/ref/collection/p15799coll89/id/318788) I learned methods in clinical and environmental epidemiology by studing visual impairment among multiethnic populations of older US adults.
