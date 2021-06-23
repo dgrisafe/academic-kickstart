@@ -83,8 +83,8 @@ email: ""
 # - Visitors
 ---
 
-I am a medical student and a chronic disease epidemiologist interested in how risk exposures affect disease outcomes at the population level.
+I am interested in how risk exposures affect chronic disease outcomes at the population level.
 
 As a [postdoctoral fellow](https://drive.google.com/file/d/10VWMRnFBfFJxueXct3npUaVkrcL0fiWs/view?usp=sharing) I learned bioinformatics while investigating the multi-omics of non-alcoholic fatty liver disease in cohorts of European children.
 
-During my [doctoral dissertation](http://digitallibrary.usc.edu/cdm/ref/collection/p15799coll89/id/318788) in clinical and environmental epidemiology I studied eye disease among multiethnic, aging adults from Southern California.
+During my [doctoral dissertation](http://digitallibrary.usc.edu/cdm/ref/collection/p15799coll89/id/318788) in clinical and environmental epidemiology I studied chronic eye disease among multiethnic, aging adults in Southern California.
