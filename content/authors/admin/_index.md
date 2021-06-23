@@ -87,4 +87,4 @@ I am a medical student and a chronic disease epidemiologist interested in how ri
 
 As a [postdoctoral fellow](https://drive.google.com/file/d/10VWMRnFBfFJxueXct3npUaVkrcL0fiWs/view?usp=sharing) I developed skills in bioinformatics while investigating the multi-omics of non-alcoholic fatty liver disease in cohorts of European children.
 
-During my [doctoral dissertation](http://digitallibrary.usc.edu/cdm/ref/collection/p15799coll89/id/318788) I learned methods in clinical and environmental epidemiology by studying visual impairment among multiethnic, aging adults living in Southern California.
+During my [doctoral dissertation](http://digitallibrary.usc.edu/cdm/ref/collection/p15799coll89/id/318788) in clinical and environmental epidemiology I studyied visual impairment among multiethnic, aging adults from Southern California.
