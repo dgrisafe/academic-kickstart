@@ -83,7 +83,7 @@ email: ""
 # - Visitors
 ---
 
-I am interested in how risk exposures affect chronic disease outcomes at the population level.
+How do risk factors contribute to chronic disease in our population?
 
 As a [postdoctoral fellow](https://drive.google.com/file/d/10VWMRnFBfFJxueXct3npUaVkrcL0fiWs/view?usp=sharing) I used bioinformatics methods to investigate the multi-omics of non-alcoholic fatty liver disease in cohorts of European children.
 
