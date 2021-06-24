@@ -87,4 +87,4 @@ How do risk factors contribute to chronic disease in our population?
 
 As a [postdoctoral fellow](https://drive.google.com/file/d/10VWMRnFBfFJxueXct3npUaVkrcL0fiWs/view?usp=sharing) I used bioinformatics methods to investigate the multi-omics of non-alcoholic fatty liver disease in cohorts of European children.
 
-During my [doctoral dissertation](http://digitallibrary.usc.edu/cdm/ref/collection/p15799coll89/id/318788) in clinical and environmental epidemiology I studied eye disease among multiethnic, aging adults in Southern California.
+During my [doctoral dissertation](/2020/05/29/dissertation/) in clinical and environmental epidemiology I studied eye disease among multiethnic, aging adults in Southern California.

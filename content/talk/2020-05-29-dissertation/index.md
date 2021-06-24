@@ -1,7 +1,7 @@
 ---
-title: 'Dissertation — Chronic Eye Disease Epidemiology in the Multiethnic Ophthalmology Cohorts of California Study'
+title: 'Chronic Eye Disease Epidemiology in the Multiethnic Ophthalmology Cohorts of California Study'
 author: Dom Grisafe
-date: '2020-05-29'
+date: '2020-05-29T11:00:00-13:00'
 slug: dissertation
 categories:
   - Dissertation
@@ -41,14 +41,14 @@ tags:
 - Generalized Additive Models
 - Social Determinants of Health
 
-subtitle: 'Dissertation Defense for PhD in Epidemiology'
+subtitle: 'Summative oral presentation of the PhD dissertation to the research committee'
 
-summary: 'While defendeding my dissertation, I presented 3 papers to my committee. I proposed these projects during my [Qualifying Exam](https://domgrisafe.com/talk/quals-vfl-vsqol-multiethnic-lac/) the previous fall. I identified and proposed a novel question in environmental epidemiology that I presented as the third paper of my dissertation. A detailed abstract is available below.'
+summary: 'I presented 3 papers to my committee while defending my dissertation in epidemiology. I proposed the first two projects in clinical epidemiology of visual impairment during my [Qualifying Exam](https://domgrisafe.com/talk/quals-vfl-vsqol-multiethnic-lac/) the previous fall. I identified a novel project in the environmental epidemiology of air pollution and primary open angle glaucomatous pathology.'
 
 authors:
 - admin
 
-lastmod: '2020-05-29T23:07:36-08:00'
+lastmod: '2020-05-29'
 featured: yes
 
 image:
@@ -71,15 +71,9 @@ url_source: ''
 url_video: ''
 ---
 
-**What is a Dissertation Defense?**
-
-The [USC Department of Preventive Medicine](https://catalogue.usc.edu/preview_program.php?catoid=7&poid=6836&returnto=1755) defines the dissertation defense for the PhD in epidemiology as a summative oral presentation to the research committee.  
-
-> "This examination is based on a draft or final version of the dissertation and will be administered by the dissertation committee with other faculty invited to attend."
-
 **Committee Members**
 
-The committee included medical researchers and physicians with expertise in fields related to my dissertation. I have developed my research projects under guidance and mentorship of each committee member. The professors include:  
+The committee included clinical scientists and physicians with expertise in fields related to my dissertation. I developed these projects under their guidance and mentorship, including:  
 
 - [Roberta McKean-Cowdin, PhD](https://keck.usc.edu/faculty-search/roberta-mckean-cowdin/)  
 
